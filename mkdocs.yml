@@ -1,7 +1,7 @@
-site_name: ThreeThirds Collaboration Docs
-site_description: ThreeThirds Collaboration Documentation
-site_author: Jared Roberts
-site_url: https://docs.collab.cloud
+site_name: ThreeThirds Collaboration Docs ST
+site_description: ThreeThirds Collaboration Documentation for Single Tenant
+site_author: Wannes Rams
+site_url: https://docs.st.collab.cloud
 repo_url: https://collab.cloud
 repo_name: collab.cloud
 
