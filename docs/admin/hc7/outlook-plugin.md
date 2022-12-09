@@ -14,7 +14,7 @@ As an Exchange administrator you can deploy the plugin for all your users. See [
 
 - Select *Get add-ins* from the ribbon or overflow menu
 
-![Get Addins](/assets/images/admin/outlook-plugin/GetAddins.png)
+![Get Addins](/docs/assets/images/admin/outlook-plugin/GetAddins.png)
 
 - Go to "My add-ins" and select " Add a custom add-in
 
