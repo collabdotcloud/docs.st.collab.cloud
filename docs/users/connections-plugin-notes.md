@@ -36,9 +36,7 @@ Click on **_Finish_**
 You might get a request to restart your computer.
 Please close all applications and do so if needed.
 
-
 ## Configuration
-
 
 ### How to configure the software
 
@@ -60,10 +58,6 @@ After a few seconds a window will show popup, please enter your credentials to l
 
 ![Install](/assets/images/screen-shots/connections-plugin/ConfigConnectionsPlugin6.png)
 
-
-
-
-
 ## Utilization
 
 ### How to use the software
@@ -77,7 +71,6 @@ You will now find your software in HCL Notes in the lower right corner (Files an
 Open the Menu on the upper right corner of the window Status Update and you will find more options to use
 
 ![Install](/assets/images/screen-shots/connections-plugin/OptionConnectionsPlugin4.png)
-
 
 ### Tab Files
 

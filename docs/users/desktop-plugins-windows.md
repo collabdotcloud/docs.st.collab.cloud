@@ -33,19 +33,21 @@ Please close all applications and do so if needed.
 
 ## Connecting to __collab.cloud__
 
-1. Once you have installed the connector you can configure it by right click in your system tray and select the **_Connect to a site_** option.
+* Once you have installed the connector you can configure it by right click in your system tray and select the **_Connect to a site_** option.
 
 ![Connect to a site](/assets/images/screen-shots/connections/connect-to-a-site.png){:width="50%"}
 
-1. In the **_Connect to a Site_** dialog, enter your Company allocated Connections URL. It will have a format like: **https://companyname.collab.cloud**. Select **_Open Standard for Authorization (OAuth)_** as Authentication Type (Do not fill out a username and password).
+* In the **_Connect to a Site_** dialog, enter your Company allocated Connections URL. It will have a format like: **https://companyname.collab.cloud**. 
 
-![Connection Details](/assets/images/screen-shots/connections/connection-details.png){:width="50%"}
+![Connection Details](/assets/images/screen-shots/desktopplugin/windows-connect-site.png){:width="50%"}
 
-1. Now click **_Connect_**, you will receive a pop-up window where you can enter your credentials
+Select **_BASIC_** as Authentication Type (Do not fill out a username and password).
 
-![login](/assets/images/screen-shots/connections/desktoplogin.png)
+* Now click **_Connect_**, you will receive a pop-up window where you can enter your credentials
 
-1. Please save your settings to start using the application
+![login](/assets/images/screen-shots/desktopplugin/windows-connect-security.png)
+
+* Please save your settings to start using the application.
 
 ![login](/assets/images/screen-shots/connections/save-settings.png)
 
