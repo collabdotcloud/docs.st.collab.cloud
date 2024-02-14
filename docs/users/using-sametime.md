@@ -22,7 +22,7 @@ Once logged in to mail application Verse/iNotes the Sametime plugin can be found
 
 ### Using Sametime from Notes
 
-[Notes Client Setup](https://docs.collab.cloud/admin/admin-sametime/)
+[Notes Client Setup](https://docs.st.collab.cloud/admin/admin-sametime/)
 
 ### Using Sametime from Standalone client
 

@@ -4,7 +4,7 @@
 
 ### Where to find the software
 
-The Desktop Connector for Windows can be found on our [downloads page](https://docs.collab.cloud/help/downloads/)
+The Desktop Connector for Windows can be found on our [downloads page](https://docs.st.collab.cloud/help/downloads/)
 
 ### How to install the software
 

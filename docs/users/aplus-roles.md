@@ -20,7 +20,7 @@ An Editor has the ability to edit existing content, and create new content.
 
 The Owner of a board has the ability to invite members to the board, and edit all cards and lists in the board.
 
-[Find out more about how to add members to an activity](https://docs.collab.cloud/users/aplus-members)
+[Find out more about how to add members to an activity](https://docs.st.collab.cloud/users/aplus-members)
 
 ## Making Your Board Public
 

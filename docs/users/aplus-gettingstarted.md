@@ -12,10 +12,10 @@ ___
 
 I am a user and want to learn how to **access my existing Activities** in Connections
 
-[Click here](https://docs.collab.cloud/users/aplus-for-users)
+[Click here](https://docs.st.collab.cloud/users/aplus-for-users)
 
 ### How To Add Activities to a Connections Community
 
 I am a Community Manager and I want to learn how to **add the Activities Plus widget** into a Community
 
-[Click here](https://docs.collab.cloud/users/aplus-for-comm-managers)
+[Click here](https://docs.st.collab.cloud/users/aplus-for-comm-managers)

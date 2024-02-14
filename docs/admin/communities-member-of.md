@@ -5,4 +5,4 @@ Just click on "Communities" to do so.
 
 Click on an entry to show the details for that Community.
 
-For more about navigating in Communities see parts of [here](https://docs.collab.cloud/admin/my-communities/)
+For more about navigating in Communities see parts of [here](https://docs.st.collab.cloud/admin/my-communities/)

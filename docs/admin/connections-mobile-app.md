@@ -2,7 +2,7 @@
 
 The HCL Connections Mobile App allows your users to interact with your data from their mobile devices on Android and iOS
 
-For more information on how to connect, please see [here](https://docs.collab.cloud/users/connections-mobile-app/)
+For more information on how to connect, please see [here](https://docs.st.collab.cloud/users/connections-mobile-app/)
 
 ## Administering the Mobile App for your organization
 

@@ -1,6 +1,6 @@
 # Manage your Users
 
-How you manage your Users depends on your Organization Account Type. Follow the steps below to create a new User in your Organization account. If you are a Hybrid customer (you have both an on-premise Domino environment and Mail in _collab.cloud_) you will need to follow the steps for [Hybrid Customers](https://docs.collab.cloud/admin/manage-users-hybrid/)
+How you manage your Users depends on your Organization Account Type. Follow the steps below to create a new User in your Organization account. If you are a Hybrid customer (you have both an on-premise Domino environment and Mail in _collab.cloud_) you will need to follow the steps for [Hybrid Customers](https://docs.st.collab.cloud/admin/manage-users-hybrid/)
 
 ---
 
@@ -32,7 +32,7 @@ Connections subscriptions that are assigned to your Organization will be present
 ### Mail
 
 **NOTE**: Clustered Mail Cloud subscriptions can not yet be added via the _collab.cloud_ Admin App. For Clustered Mail Cloud subscriptions to be added to your User, please send a request to [support@collab.cloud](mailto:support@collab.cloud). </br>
-For Hybrid customers - please follow the steps in the [Hybrid Customers](https://docs.collab.cloud/admin/manage-users-hybrid/) doc.
+For Hybrid customers - please follow the steps in the [Hybrid Customers](https://docs.st.collab.cloud/admin/manage-users-hybrid/) doc.
 
 ---
 

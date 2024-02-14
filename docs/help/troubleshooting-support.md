@@ -18,4 +18,4 @@ If you experience a problem with any of our services, and want to open a support
 
 ![Support Portal Login Page](/assets/images/screen-shots/help/help-login.png)
 
-For more information on how to use the Support Portal please go to this page [Support Portal](https://docs.collab.cloud/help/using-the-support-portal)
+For more information on how to use the Support Portal please go to this page [Support Portal](https://docs.st.collab.cloud/help/using-the-support-portal)

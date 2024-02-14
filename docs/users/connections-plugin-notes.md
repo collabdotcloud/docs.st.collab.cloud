@@ -4,7 +4,7 @@
 
 ### Where to find the software
 
-The Connections Addon Installer for Windows can be found on our [downloads page](https://docs.collab.cloud/help/downloads/)
+The Connections Addon Installer for Windows can be found on our [downloads page](https://docs.st.collab.cloud/help/downloads/)
 For Mac the Addon is allready inplemented in HCL Notes V12.
 
 ### How to install the software

@@ -6,7 +6,7 @@ Watch [this](https://www.youtube.com/watch?v=W3U4nkSGoDQ) video for more informa
 
 ## How to enable Touchpoint for your organisation
 
-To enable Touchpoint for your organisation, you will need to add a new Appregistry extension. For more information on Appregistry, see [here](https://docs.collab.cloud/admin/appreg/).
+To enable Touchpoint for your organisation, you will need to add a new Appregistry extension. For more information on Appregistry, see [here](https://docs.st.collab.cloud/admin/appreg/).
 
 ## Example
 

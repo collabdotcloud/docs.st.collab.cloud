@@ -6,5 +6,5 @@ As soon as you select a user the button "n SELECTED" will be shown.
 
 Click on the action you want to run.
 
-* [Remove connections subscriptions](https://docs.collab.cloud/admin/bulk-actions-remove-subscription/)
-* [Deactivate users](https://docs.collab.cloud/admin/bulk-actions-deactivate-user/)
+* [Remove connections subscriptions](https://docs.st.collab.cloud/admin/bulk-actions-remove-subscription/)
+* [Deactivate users](https://docs.st.collab.cloud/admin/bulk-actions-deactivate-user/)

@@ -10,7 +10,7 @@ Visual Update is a graphical layer on top of HCL Connections that provides HCL C
 
 ## How to enable
 
-To enable Touchpoint for your organisation, you will need to add a new Appregistry extension. For more information on Appregistry, see [here](https://docs.collab.cloud/admin/appreg/).
+To enable Touchpoint for your organisation, you will need to add a new Appregistry extension. For more information on Appregistry, see [here](https://docs.st.collab.cloud/admin/appreg/).
 
 ## Example
 

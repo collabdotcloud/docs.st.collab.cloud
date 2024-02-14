@@ -9,6 +9,6 @@ Click on an entry to show the details.
 
 You have almost the same options as for your own Organisation. I.e.: Manage Users and get Information about the Communities.
 
-- [Manage Users](https://docs.collab.cloud/admin/manage-users/)
+- [Manage Users](https://docs.st.collab.cloud/admin/manage-users/)
 
-- [Communities](https://docs.collab.cloud/admin/my-communities/)
+- [Communities](https://docs.st.collab.cloud/admin/my-communities/)

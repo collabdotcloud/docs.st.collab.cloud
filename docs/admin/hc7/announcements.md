@@ -35,7 +35,7 @@ These announcements can be created in the [appregistry](/admin/appreg).
                     {
                         "title": "Collab Cloud Connections 7 Update",
                         "message": "We have updated our Collab.cloud to HCL Connections 7",
-                        "link": "https://docs.collab.cloud/admin/hc7/whats-new/",
+                        "link": "https://docs.st.collab.cloud/admin/hc7/whats-new/",
                         "linkTitle": "HCL Connections 7"
                     }
                 ]
@@ -56,13 +56,13 @@ The first *name* tag needs to be set to *com.ibm.orientme.defaults*.
                     {
                         "title": "Collab Cloud Connections 7 Update",
                         "message": "We have updated our Collab.cloud to HCL Connections 7",
-                        "link": "https://docs.collab.cloud/admin/hc7/whats-new/",
+                        "link": "https://docs.st.collab.cloud/admin/hc7/whats-new/",
                         "linkTitle": "HCL Connections 7"
                     },
                     {
                         "title": "New CEO",
                         "message": "We are proud to announce a new CEO",
-                        "link": "https://docs.collab.cloud/admin/hc7/whats-new/",
+                        "link": "https://docs.st.collab.cloud/admin/hc7/whats-new/",
                         "linkTitle": "HCL Connections 7"
                     }
                 ]

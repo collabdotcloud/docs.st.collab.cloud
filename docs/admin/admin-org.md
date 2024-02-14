@@ -61,4 +61,4 @@ _Keep watching this page as there will be weekly updates to the Documentation_
 
 > \* Adding Organisation Extensions, or migrating Extensions from IBM Connections Cloud will need to be performed in consultation with ThreeThirds development, and may incur professional services fees.  
 > Organizaton Administrators can add custom Extensions via the Applications Register at `https://yourtenantname.collab.cloud/appreg`  
-> \** New mail users are handled by support request (Mail Cloud customers) or by registration in your on-premise Domino Directory (Hybrid Customers). See [User Management](https://docs.collab.cloud/admin/manage-users/) for more info.
+> \** New mail users are handled by support request (Mail Cloud customers) or by registration in your on-premise Domino Directory (Hybrid Customers). See [User Management](https://docs.st.collab.cloud/admin/manage-users/) for more info.

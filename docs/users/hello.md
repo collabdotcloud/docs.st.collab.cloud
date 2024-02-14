@@ -6,4 +6,4 @@ Here you will find useful information how to use Mail, Connections, Sametime, Ac
 
 Find what you are looking for by navigating in the left hand side menu.
 
-If you cannot find what you are looking for, or have a problem, please have a look at our [Help](https://docs.collab.cloud/help/troubleshooting-support) or the [FAQ](https://docs.collab.cloud/help/faq) page
+If you cannot find what you are looking for, or have a problem, please have a look at our [Help](https://docs.st.collab.cloud/help/troubleshooting-support) or the [FAQ](https://docs.st.collab.cloud/help/faq) page

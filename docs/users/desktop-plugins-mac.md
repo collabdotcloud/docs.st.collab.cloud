@@ -4,7 +4,7 @@
 
 ### Download
 
-The desktop plugins allow you to sync data locally on your computer and integrate in the operating system. There are 2 versions of them. 1 for Windows and 1 for Mac. You can download those [here](https://docs.collab.cloud/help/downloads/)
+The desktop plugins allow you to sync data locally on your computer and integrate in the operating system. There are 2 versions of them. 1 for Windows and 1 for Mac. You can download those [here](https://docs.st.collab.cloud/help/downloads/)
 
 ### Setup
 
