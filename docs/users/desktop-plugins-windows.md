@@ -41,7 +41,7 @@ Please close all applications and do so if needed.
 
 ![Connection Details](/assets/images/screen-shots/desktopplugin/windows-connect-site.png){:width="50%"}
 
-Select **_BASIC_** as Authentication Type (Do not fill out a username and password).
+Select **_BASIC_** as Authentication Type. Other options are currently not availble.
 
 * Now click **_Connect_**, you will receive a pop-up window where you can enter your credentials
 
