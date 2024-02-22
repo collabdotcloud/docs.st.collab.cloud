@@ -3,7 +3,7 @@
 We have now activated the homepage switcher. It can be accessed on your profile picture:
 ![Homepage Switcher](/assets/images/screen-shots/connections/homepage-switcher.png)
 
-[Official HCL Documentation](https://help.hcltechsw.com/connections/v65/user/homepage/hframe.html)
+[Official HCL Documentation](https://opensource.hcltechsw.com/connections-doc/v8-cr5/user/homepage/hframe.html)
 
 ## Caveats
 

@@ -24,7 +24,7 @@ A list of widgets can be found in the [official documentation](https://help.hclt
 
 ## Add to existing community
 
-If you have an existing pre Connections 7 community, you can still add Highlights to it. As a community owner go to **Community Actions** **Add Apps** and add the **Highlights** App.
+If you have an existing pre Connections 8 community, you can still add Highlights to it. As a community owner go to **Community Actions** **Add Apps** and add the **Highlights** App.
 
 ![Highlight-Add-Apps](/assets/images/admin/highlights/highlights-add-apps.png)
 

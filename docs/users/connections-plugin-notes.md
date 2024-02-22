@@ -9,7 +9,7 @@ For Mac the Addon is allready inplemented in HCL Notes V12.
 
 ### How to install the software
 
-Either you follow the guide below or you go to the [HCL documentation website](https://help.hcltechsw.com/connections/v65/connectors/enduser/c_plugin_enduser_help_over.html)
+Either you follow the guide below or you go to the [HCL documentation website](hhttps://opensource.hcltechsw.com/connections-doc/v8-cr5/connectors/admin/Files_plug-in_installation.html)
 
 After downloading the software, unzip the file (ConnectionsAddonInstaller.zip) to a desired folder. To upgrade or install the HCL Connections Plug-ins for HCL Notes go to the Folder and double click the setup.exe file. Depending on your security settings, you will have to run the installation as administrator.
 
@@ -103,4 +103,4 @@ By using the magnifying glass icon you can change your search from searching in 
 ![Install](/assets/images/screen-shots/connections-plugin/OptionConnectionsPlugin3.png)
 
 
-For more information how to use the software, please go to [HCL documentation website](https://help.hcltechsw.com/connections/v65/connectors/enduser/c_plugin_enduser_help_over.html)
+For more information how to use the software, please go to [HCL documentation website](https://opensource.hcltechsw.com/connections-doc/v8-cr5/connectors/enduser/c_plugin_enduser_help_over.html)

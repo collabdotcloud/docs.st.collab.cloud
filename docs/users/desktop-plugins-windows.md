@@ -57,7 +57,7 @@ As the list of communities was stored on the client they could not be migrated, 
 
 ### How to Use the Software
 
-Information on how to use the Desktop Connector for Windows can be found on the HCL documentation [website](https://help.hcltechsw.com/connections/v65/connectors/enduser/c_ms_plugins_win_explorer.html)
+Information on how to use the Desktop Connector for Windows can be found on the HCL documentation [website](https://opensource.hcltechsw.com/connections-doc/v8-cr5/connectors/enduser/c_ms_plugins_win_explorer.html)
 
 ### Add your Communities
 

@@ -4,7 +4,7 @@ We are currently experiencing issues with the events widget in our environment, 
 
 ## Add Highligts and set as landing page
 
-The new Highlights application ( [New Connections 7 feature](https://docs.st.collab.cloud/admin/hc7/highlights/){:target="_blank"} ) contains a new widget that uses a different way of loading than the classical events widget. This one works, so first step is to add the Highlights Application and set it as the start page for the community
+The new Highlights application ( [New Connections 8 feature](https://docs.st.collab.cloud/admin/hc7/highlights/){:target="_blank"} ) contains a new widget that uses a different way of loading than the classical events widget. This one works, so first step is to add the Highlights Application and set it as the start page for the community
 
 - Go to your Community overview page, click Community Actions - Add Apps
 

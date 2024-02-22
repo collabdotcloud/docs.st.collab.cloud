@@ -1,8 +1,8 @@
-# What's new in Connections 7 Multitenant
+# What's new in Connections 8 Single Tenant
 
-There are some differences between [Connections 7 on premises](https://help.hcltechsw.com/connections/v7/user/eucommon/r_eucommon_whats_new.html) and Connections 7 multitenant/cloud.
+There are some differences between [Connections 8 on premises](https://help.hcltechsw.com/connections/v7/user/eucommon/r_eucommon_whats_new.html) and Connections 8 Single Tenant/cloud.
 
-***Connections 7 multitenant will have these new features:***
+***Connections 8 Single Tenant will have these new features:***
 
 - [Touchpoint](touchpoint.md) - On boarding application
 - [Sharepoint Widget](sharepoint.md) - integrate your sharepoint site into communities
