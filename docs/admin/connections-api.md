@@ -4,9 +4,9 @@ This documentation describes how you can access the Connections API using our en
 
 For the documentation for the Connections API please refer to the official Connections API documentation:
 
-[HCL Connections API Documentation](https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf)
+[HCL Connections API Documentation](https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+8.0+API+Documentation#action=openDocument&content=catcontent&ct=api)
 
-We currently use version 6.5 on our Multi-Tenant environment.
+We currently use version 8 on our Single-Tenant environment.
 
 ## How do I get access to the API?
 
@@ -32,7 +32,7 @@ We currently don't have dedicated service accounts. However, every normal user c
 
 ## Authentication & Usage
 
-The [Connections API](https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf) is the same as on every Connections environment. However, the authentication to Connection is different. We use OAuth 2.0 which is more modern and secure.
+The [Connections API](https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+8.0+API+Documentation#action=openDocument&content=catcontent&ct=api) is the same as on every Connections environment. However, the authentication to Connection is different. We use OAuth 2.0 which is more modern and secure.
 
 After successful authentication, the API calls are exactly as in an On-Prem environment.
 
