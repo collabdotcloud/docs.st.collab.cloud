@@ -18,10 +18,15 @@ The field **_Account Name_** is optional. Here you can choose a name of your acc
 
 In the **_Server URL_** field, type your dedicated company URL. If you do not know your company URL, please contact your administrator.
 
-![Server URL](/assets/images/screen-shots/mobileapp/hclmobile2.png)
+| ![Server URL](/assets/images/screen-shots/mobileapp/hclmobile2.png) | ![Server URL](/assets/images/screen-shots/mobileapp/hclmobile3.png) |
 
-![Server URL](/assets/images/screen-shots/mobileapp/hclmobile3.png)
+<table>
+  <tr>
+    <td> ![Server URL](/assets/images/screen-shots/mobileapp/hclmobile2.png)</td>
 
+    <td> ![Server URL](/assets/images/screen-shots/mobileapp/hclmobile3.png) </td>
+   </tr>
+</table>
 
 Click **_Continue_**
 
