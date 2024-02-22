@@ -129,10 +129,7 @@ nav:
                 - Activities Plus Mobile App: users/aplus-mobile-app.md
                 - Activities Plus Free Onboarding session: users/aplus-learning.md
                 - Kudos Boards (premium experience): users/aplus-boards.md
-          - Using Business Apps:
-                - Getting Started: users/businessapps-gettingstarted.md
-                - Accessing Business Apps: users/businessapps-access.md
-                - Creating an App: users/businessapps-create.md
+          
 
     - Help:
           - Troubleshooting & Support: help/troubleshooting-support.md
