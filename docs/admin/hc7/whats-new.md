@@ -1,16 +1,13 @@
 # What's new in Connections 8 Single Tenant
 
-There are some differences between [Connections 8 on premises](https://help.hcltechsw.com/connections/v7/user/eucommon/r_eucommon_whats_new.html) and Connections 8 Single Tenant/cloud.
+There are many new features in Connections 8, but only the most important ones are listed on this page. All new features can be found on the HCL Connections page [here](https://opensource.hcltechsw.com/connections-doc/v8/user/eucommon/r_eucommon_whats_new.html)
+
 
 ***Connections 8 Single Tenant will have these new features:***
 
-- [Touchpoint](touchpoint.md) - On boarding application
-- [Sharepoint Widget](sharepoint.md) - integrate your sharepoint site into communities
-- [Round trip editing for Connections Files](round-trip-edit.md) - edit your documents in Word
-- [Highlights](highlights.md) - New community startpage
-- [Custom Chat integration](chat.md) - Integrate your own chat service
-- [Meeting integration](meeting.md) - Integrate your own meeting service
-- [Social Homepage](connections-social-homepage.md) - new Homepage
-- [Social Homepage: Announcements](announcements.md) - Announcememts
-- [New Visual Design](visual-update.md) - New Visual Design
-
+- [Search from anywhere in Connections]() - Advanced search - find more information [here](https://opensource.hcltechsw.com/connections-doc/v8/user/eucommon/c_eucommon_search.html)
+- [More usable and intuitive navigation]() - redesigned navigation
+- [Increased collaboration with universal upload and share]() - Easily share content - more information [here](https://opensource.hcltechsw.com/connections-doc/v8/user/eucommon/)
+- [Quick access to important contacts]() - Essential people and communities are never more than a click away
+- [Keep track of important updates]() - Decide on the updates that matter to you [more information](https://opensource.hcltechsw.com/connections-doc/v8/user/eucommon/)
+- [Interested in Connections Mobile?](connections-mobile-app.md) - Mobile Application
