@@ -1407,14 +1407,14 @@
       
       
         <label class="md-nav__link" for="__nav_3_7" id="__nav_3_7_label" tabindex="0">
-          Connections 7
+          Connections 8
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_7_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_3_7">
           <span class="md-nav__icon md-icon"></span>
-          Connections 7
+          Connections 8
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
           
@@ -1566,6 +1566,68 @@
     <li class="md-nav__item">
       <a href="../hc7/outlook-plugin/" class="md-nav__link">
         Outlook Plugin
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_8" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_8" id="__nav_3_8_label" tabindex="0">
+          3dparty Cookies
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_8_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_8">
+          <span class="md-nav__icon md-icon"></span>
+          3dparty Cookies
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../3rdpartycookies/chrome/" class="md-nav__link">
+        Chrome
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../3rdpartycookies/firefox/" class="md-nav__link">
+        Firefox
       </a>
     </li>
   
@@ -2224,82 +2286,6 @@
 
             
           
-            
-              
-  
-  
-  
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-      
-      
-      
-      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_6" >
-      
-      
-      
-        <label class="md-nav__link" for="__nav_4_6" id="__nav_4_6_label" tabindex="0">
-          Using Business Apps
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_6_label" aria-expanded="false">
-        <label class="md-nav__title" for="__nav_4_6">
-          <span class="md-nav__icon md-icon"></span>
-          Using Business Apps
-        </label>
-        <ul class="md-nav__list" data-md-scrollfix>
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../users/businessapps-gettingstarted/" class="md-nav__link">
-        Getting Started
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../users/businessapps-access/" class="md-nav__link">
-        Accessing Business Apps
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../users/businessapps-create/" class="md-nav__link">
-        Creating an App
-      </a>
-    </li>
-  
-
-            
-          
-        </ul>
-      </nav>
-    </li>
-  
-
-            
-          
         </ul>
       </nav>
     </li>
@@ -2551,20 +2537,6 @@
 
             
           
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../help/log4shell/" class="md-nav__link">
-        Log4j
-      </a>
-    </li>
-  
-
-            
-          
         </ul>
       </nav>
     </li>
@@ -2757,8 +2729,8 @@
 <h1 id="connections-api">Connections API<a class="headerlink" href="#connections-api" title="Permanent link">&para;</a></h1>
 <p>This documentation describes how you can access the Connections API using our environment.</p>
 <p>For the documentation for the Connections API please refer to the official Connections API documentation:</p>
-<p><a href="https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf">HCL Connections API Documentation</a></p>
-<p>We currently use version 6.5 on our Multi-Tenant environment.</p>
+<p><a href="https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+8.0+API+Documentation#action=openDocument&amp;content=catcontent&amp;ct=api">HCL Connections API Documentation</a></p>
+<p>We currently use version 8 on our Single-Tenant environment.</p>
 <h2 id="how-do-i-get-access-to-the-api">How do I get access to the API?<a class="headerlink" href="#how-do-i-get-access-to-the-api" title="Permanent link">&para;</a></h2>
 <p>The APIs support only Oauth/OIDC access.
 Please open a support ticket if you want to use the API's.
@@ -2772,7 +2744,7 @@ You will then be provided with your Client-ID and Client-Secret.</p>
 <h2 id="service-accounts">Service Accounts<a class="headerlink" href="#service-accounts" title="Permanent link">&para;</a></h2>
 <p>We currently don't have dedicated service accounts. However, every normal user can function as a service account and authenticate programmatically. Meaning, you can create a new separate user, dedicated to call the Connections APIs. It needs the same subscriptions as a normal Connections user.</p>
 <h2 id="authentication-usage">Authentication &amp; Usage<a class="headerlink" href="#authentication-usage" title="Permanent link">&para;</a></h2>
-<p>The <a href="https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf">Connections API</a> is the same as on every Connections environment. However, the authentication to Connection is different. We use OAuth 2.0 which is more modern and secure.</p>
+<p>The <a href="https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+8.0+API+Documentation#action=openDocument&amp;content=catcontent&amp;ct=api">Connections API</a> is the same as on every Connections environment. However, the authentication to Connection is different. We use OAuth 2.0 which is more modern and secure.</p>
 <p>After successful authentication, the API calls are exactly as in an On-Prem environment.</p>
 <h3 id="using-oauth-20-for-connections-apis">Using OAuth 2.0 for Connections APIs<a class="headerlink" href="#using-oauth-20-for-connections-apis" title="Permanent link">&para;</a></h3>
 <p>HCL Connections has APIs that support OAuth 2.0 but also some that don't and only support "Basic Authentication".</p>
