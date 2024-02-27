@@ -84,7 +84,7 @@ nav:
                 - Social Homepage: admin/hc7/connections-social-homepage.md
                 - Announcements: admin/hc7/announcements.md                
                 - Outlook Plugin: admin/hc7/outlook-plugin.md
-          - 3dparty Cookies:
+          - 3rd-party Cookies:
                 - Chrome: admin/3rdpartycookies/chrome.md
                 - Firefox: admin/3rdpartycookies/firefox.md
           #- Business Partner Options:
