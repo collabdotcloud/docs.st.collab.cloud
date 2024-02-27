@@ -1,4 +1,4 @@
-#Events widget display issues workaround
+# Events widget display issues workaround
 
 We are currently experiencing issues with the events widget in our environment, we are working hard with HCL to solve this. In the meanwhile please consider this workaround.
 
@@ -48,5 +48,3 @@ In case of questions, do not hesitate to open a ticket in the support system and
 Extra sources
 
 [Here](https://help.hcltechsw.com/connections/v7/user/communities/c_com_highlights_widgets.html) and [here](https://help.hcltechsw.com/connections/v7/user/communities/c_com_config_highlights_widget.html)
-
-

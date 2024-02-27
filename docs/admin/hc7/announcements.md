@@ -1,6 +1,6 @@
 # Orient Me Announcements
 
-Organisation Admins are now able to show announcements in our Connections environment. 
+Organisation Admins are now able to show announcements in our Connections environment.
 
 That's how it looks like:
 

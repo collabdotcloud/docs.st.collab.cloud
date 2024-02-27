@@ -30,29 +30,3 @@ Find more information [here](https://www.hcltechsw.com/products/domino)
 ## Planned maintenance
 
 None
-
-## Previous maintenance
-
-### Datacenter America
-
-* March 27, 2022, 04:00AM-06:00AM US Central Time, 6:00-8:00 PM JST / 8:00-10:00PM AEDT.  
-Update Connections to the latest Fix pack. Connections will be down during the update.
-
-* January 24, 2022, 10:00-11:00 UTC (04:00-05:00 CST):  
-Security Fix [KB0095391](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095391)
-Connections will be down during the update.
-
-* January 16, 2022, 09:00-11:00 UTC (03:00-05:00 CST):  
-Update Connections CFIX 70.2112. Connections will be down during the update.
-
-### Datacenter Europe
-
-* March 25, 2022, 21:00-23:00 CET (20:00-22:00 UTC)  
-Update Connections to the latest Fix pack. Connections will be down during the update.
-
-* January 24, 2022, 19:30-20:30 UTC (20:30-21:30 CET):  
-Security Fix [KB0095391](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095391)
-Connections will be down during the update.
-
-* January 15, 2022, 19:00-21:00 UTC (20:00-22:00 CET):  
-Update Connections CFIX 70.2112. Connections will be down during the update.

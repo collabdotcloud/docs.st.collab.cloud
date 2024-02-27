@@ -66,8 +66,7 @@ nav:
                 - Searchresults in new Tab: admin/extension-search.md
                 - Connections API: admin/connections-api.md
                 - Desktop Connector: admin/desktop-connector-windows.md
-                - Engagement Center: admin/icec-feeds.md
-                - Limit Community Creators: admin/extensions/hide-create-community-button.md
+                - Engagement Center: admin/icec-feeds.md                
                 - Mobile App:
                       - General Settings: admin/connections-mobile-app.md
                       - Add Activities Plus: admin/connections-mobile-app-add-aplus.md
@@ -83,8 +82,7 @@ nav:
                 - Chat: admin/hc7/chat.md
                 - Meeting: admin/hc7/meeting.md
                 - Social Homepage: admin/hc7/connections-social-homepage.md
-                - Announcements: admin/hc7/announcements.md
-                - Visual Design: admin/hc7/visual-update.md
+                - Announcements: admin/hc7/announcements.md                
                 - Outlook Plugin: admin/hc7/outlook-plugin.md
           - 3dparty Cookies:
                 - Chrome: admin/3rdpartycookies/chrome.md
@@ -142,6 +140,7 @@ nav:
 
     - Known Issues:
           - "": help/known-issues.md
+          - Events Widget: help/events-widget.md
     - Faq:
           - "Q&A": help/faq.md
 

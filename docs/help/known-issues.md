@@ -8,6 +8,12 @@ Thank you for your continued patience and understanding!
 
 ---
 
+## @Mentions in restricted communities
+
+When you @mention a non-community member in an external community, the error message is unreadable.
+
+[HCL Defect](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110370)
+
 ## Sametime does not show profile pictures
 
 Sametime standalone and Notes Plugin does not show the profile pictures.
@@ -46,7 +52,7 @@ Solution:
 
 ## HCl Connections Plugin for Outlook does not authenticate
 
-If you are blocking 3th party cookies in your browser you will face an issue where the authentication flow will never finish:
+If you are blocking 3rd party cookies in your browser you will face an issue where the authentication flow will never finish:
 
 Solution:
 
