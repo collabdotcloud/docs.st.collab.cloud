@@ -37,15 +37,13 @@ Please close all applications and do so if needed.
 
 ![Connect to a site](/assets/images/screen-shots/connections/connect-to-a-site.png){:width="50%"}
 
-* In the **_Connect to a Site_** dialog, enter your Company allocated Connections URL. It will have a format like: **https://companyname.collab.cloud**. 
+1. In the **_Connect to a Site_** dialog, enter your Company allocated Connections URL. It will have a format like: **https://companyname.collab.cloud**. Select **_Open Standard for Authorization (OAuth)_** as Authentication Type (Do not fill out a username and password). 
 
-![Connection Details](/assets/images/screen-shots/desktopplugin/windows-connect-site.png){:width="50%"}
-
-Select **_BASIC_** as Authentication Type. Other options are currently not availble.
+![Connection Details](/assets/images/screen-shots/connections/connection-details.png){:width="50%"}
 
 * Now click **_Connect_**, you will receive a pop-up window where you can enter your credentials
 
-![login](/assets/images/screen-shots/desktopplugin/windows-connect-security.png)
+![login](/assets/images/screen-shots/connections/desktoplogin.png)
 
 * Please save your settings to start using the application.
 
