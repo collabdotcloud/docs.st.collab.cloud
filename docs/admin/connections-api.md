@@ -6,7 +6,7 @@ For the documentation for the Connections API please refer to the official Conne
 
 [HCL Connections API Documentation](https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+8.0+API+Documentation#action=openDocument&content=catcontent&ct=api)
 
-We currently use version 8 on our Single-Tenant environment.
+We currently use version 8 in our Single-Tenant environment.
 
 ## How do I get access to the API?
 
