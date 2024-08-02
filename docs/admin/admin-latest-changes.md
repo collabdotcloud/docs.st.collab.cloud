@@ -1,14 +1,14 @@
 # Administration Console - Latest Changes
 
-#### 2024-06-13
+#### 2024-07-29
 
-###### Added
+**Fixed**
 
-- updated Singletenant Version
+- The communities in the users community can be opened again.
 
 #### 2021-09-16
 
-###### Added
+**Added**
 
 - Create, view, rename and delete Sametime Groups
 - Add users to Sametime Groups
@@ -16,7 +16,7 @@
 
 #### 2021-05-10
 
-###### Added
+**Added**
 
 - Remove Connections subscriptions from one or more users
 - Deactivate one or more users
@@ -25,7 +25,7 @@
 
 #### 2021-05-05
 
-###### Added
+**Added**
 
 - Ability to switch between different subscriptions for a user, such as between Connections Guest and Conenection Guest Paid
 
@@ -33,7 +33,7 @@
 
 #### 2021-05-03
 
-###### Added
+**Added**
 
 - Section in User Page that shows which communities they belong to, and whether an owner or a members
 
@@ -41,11 +41,11 @@
 
 #### 2021-03-30
 
-###### Added
+**Added**
 
 - Add Support Role attribute to users
 
-###### Bugs Fixed
+**Fixed**
 
 - Internal communities links configured incorrectly
 
@@ -53,7 +53,7 @@
 
 #### 2021-03-19
 
-###### Added
+**Added**
 
 - My communities
 - Community Details
@@ -66,7 +66,7 @@
 
 #### 2021-03-17
 
-###### Changed
+**Updated**
 
 - Sidebar includes Connections profile pictures where applicable
 
@@ -74,7 +74,7 @@
 
 #### 2021-03-12
 
-###### Added
+**Added**
 
 - Open Support Tickets displayed in Admin App
 - Set who receives admin news
@@ -83,7 +83,7 @@
 
 #### 2021-02-18
 
-###### Added
+**Added**
 
 - Show/Hide Inactive Users button on My Users page
 - Count of users on My Users page
@@ -92,11 +92,11 @@
 
 #### 2021-02-16
 
-###### Added
+**Added**
 
 - Last logins details of users added to export list
 
-###### Changed
+**Updated**
 
 - User exports process changed to accommodate last logins
 - Subscription IDs in user export replaced with subscription names
@@ -106,7 +106,7 @@
 
 #### 2021-01-28
 
-###### Added
+**Added**
 
 - Add Sametime subscriptions to Organisation Users
 
@@ -114,7 +114,7 @@
 
 #### 2021-01-04
 
-###### Added
+**Added**
 
 - Added access to App Registration and Mobile Administration to the console
 
@@ -122,7 +122,7 @@
 
 #### 2020-12-03
 
-###### Added
+**Added**
 
 - User pages include last login details for the following services: Connections Web, Connections Mobile, Connections Desktop Connector
 
@@ -130,12 +130,12 @@
 
 #### 2020-10-29
 
-###### Added
+**Added**
 
 - Warning messages in user page outlining inactive or active with no Connections or run out of subscription licenses
 - Get Admin News Field
 
-###### Changed
+**Updated**
 
 - Updates to users list after edits/subscription changes
 - Redirect to user page after creation
@@ -146,12 +146,12 @@
 
 #### 2020-10-15
 
-###### Added
+**Added**
 
 - Latest Changes Documentation
 - Links to the Admin Console Documentation and Latest Changes page
 
-###### Changed
+**Updated**
 
 - Better field validation on user creation
 - Inactive Users are filtered out by default on the users page
@@ -161,7 +161,7 @@
 
 #### 2020-09-23
 
-###### Added
+**Added**
 
 - Add and remove guest subscriptions on visitors
 
@@ -169,7 +169,7 @@
 
 #### 2020-09-11
 
-###### Added
+**Added**
 
 - Revoke subscriptions from users has been restored
 
@@ -177,15 +177,15 @@
 
 #### 2020-08-18
 
-###### Added
+**Added**
 
 - Export list of users in a .csv file
 
-###### Changed
+**Updated**
 
 - Default File Quota 50GB rather than 500MB
 
-###### Bugs Fixed
+**Fixed**
 
 - Fix for user search that was displaying 36 subscriptions instead of 1
 
@@ -193,6 +193,6 @@
 
 #### 2020-07-31
 
-###### Removed
+**Removed**
 
 - Revoke subscriptions has been removed temporarily and will be restored once known issues are resolved
