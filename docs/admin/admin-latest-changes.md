@@ -4,7 +4,7 @@
 
 **Fixed**
 
-- The communities in the users community can be opened again.
+- The entries in the users community list display a login message.
 
 #### 2021-09-16
 
