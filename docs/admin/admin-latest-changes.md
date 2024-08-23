@@ -1,5 +1,11 @@
 # Administration Console - Latest Changes
 
+#### 2024-08-24
+
+**Fixed**
+
+- Guest accounts assigned wrong type
+
 #### 2024-07-29
 
 **Fixed**
