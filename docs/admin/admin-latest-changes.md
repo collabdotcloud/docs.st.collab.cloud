@@ -1,5 +1,11 @@
 # Administration Console - Latest Changes
 
+#### 2024-09-09
+
+**Added**
+
+- Report to chain see [here](/admin/report-to-chain)
+
 #### 2024-08-24
 
 **Fixed**
