@@ -1,5 +1,11 @@
 # Administration Console - Latest Changes
 
+#### 2024-09-11a
+
+**Fixed**
+
+- Regression bug: Person search works again.
+
 #### 2024-09-09
 
 **Added**
