@@ -1,5 +1,15 @@
 # Administration Console - Latest Changes
 
+#### 2024-12-05
+
+The "Generate Export" function has been temporarily disabled.
+We are working on bringing it back as soon as possible.
+
+**Fixed**
+
+- Community list added creator column
+- Community list title column wider
+
 #### 2024-09-11a
 
 **Fixed**
