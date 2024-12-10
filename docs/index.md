@@ -29,4 +29,4 @@ Find more information [here](https://www.hcltechsw.com/products/domino)
 
 ## Planned maintenance
 
-None
+**CR8 Update** roll out has been started December 9, 2024. 

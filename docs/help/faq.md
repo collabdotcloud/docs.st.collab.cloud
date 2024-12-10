@@ -1,5 +1,13 @@
 # Frequently Asked Questions
 
+**Q. Mobile login shows error**
+
+After successfull login, the following message is displayed:
+![Client disabled](/assets/images/faq/client_disabled.png)
+
+**A.** You're still using the MultiTenant environment.
+You need to remove the current account and add the new one.
+
 **Q. Community overview page stays empty**  
 If I click on Community, only the top header shows and the rest of the page stays empty.  
 ![Clean communities](/assets/images/faq/empty_community.png)
