@@ -1,19 +1,22 @@
 # Downloads
 
-For access to the entitled software, we have a download link per datacenter.
-You need to the download link relevant to your customer datacenter, and your ThreeThirds username and password to access the download site.
+For access to the entitled software you'll find a link to the downloads in your admin-app.
 
-![Verse Status](../assets/images/screen-shots/help/downloads-eu.png)
+![Download Page](../assets/images/screen-shots/help/downloads-eu.png)
 
 ---
 
 ## Download links
 
-[European datacenter - https://downloadseu.collab.cloud](https://downloadseu.collab.cloud)
+The downloads are accessible in the Admin-App or through the direct url:
+[https://downloads-instance.collab.cloud](about:blank) or [https://instance.collab.cloud/downloads](about:blank)
+where instance is the first part of your connections url.
+Those links require authentication. You're OrgAdmin has access.
 
-[US datacenter - https://downloadsna.collab.cloud](https://downloadsna.collab.cloud)
+example:
 
-*Don't know which datacenter your environment is deployed in?* [Contact Us](mailto:support@collab.cloud)
+- Connections URL: [https://threethirds.collab.cloud](about:blank)
+- => Downloads Url [https://downlaods-threethirds.collab.cloud](about:blank) or [https://threethirds.collab.cloud/downloads](about:blank)
 
 ---
 
