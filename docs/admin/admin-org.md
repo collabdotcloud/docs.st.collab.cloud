@@ -4,7 +4,6 @@
 
 Administrators can log into the _ThreeThirds Collaboration Admin_ app by clicking the Admin App(Cog icon) in the bottom left of the screen in the left sidebar.
 
-
 ![Admin Link](/assets/images/screen-shots/admin/admin-cog.png)
 
 ---
@@ -51,14 +50,16 @@ _Keep watching this page as there will be weekly updates to the Documentation_
 | Add/change mail quota                   |                    | `[X]`         |                 |               |
 |                                         |                    |               |                 |               |
 | **User Management - Chat/IM** |                    |               |                 |               |
-| Disable Sametime Chat                   | `[X]`              |               |                 |               |
+| Disable Sametime Chat (a)                  | `[X]`              |               |                 |               |
+| Manage Sametime Groups                    |                    | `[X]`          |                 |               |
 |                                         |                    |               |                 |               |
 | **System**                 |                    |               |                 |               |
 | Change Theme/Colours                    |                    |               | `[X]`           |               |
 | Add Company Logo                        |                    |               | `[X]`           |               |
-| Manage IP Restrictions                  | `[X]`              |               | `[X]`           |               |
+| Manage IP Restrictions                  | `[X]`              |               |            | `[X]`        |
 | Add Organisation Extensions             | `[X]`\*            |               | `[X]`           |               |
 
 > \* Adding Organisation Extensions, or migrating Extensions from IBM Connections Cloud will need to be performed in consultation with ThreeThirds development, and may incur professional services fees.  
 > Organizaton Administrators can add custom Extensions via the Applications Register at `https://yourtenantname.collab.cloud/appreg`  
 > \** New mail users are handled by support request (Mail Cloud customers) or by registration in your on-premise Domino Directory (Hybrid Customers). See [User Management](https://docs.st.collab.cloud/admin/manage-users/) for more info.
+> (a) Sametime is now enabled only on request.

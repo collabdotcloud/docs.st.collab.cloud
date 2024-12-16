@@ -1,10 +1,12 @@
 # Administration Console - Latest Changes
 
-## 2024-12-16
+The list of changes and fixes in the Administration Console (admin-app)
+
+#### 2024-12-16
 
 The "Generate Export" function is now active again.
 
-## 2024-12-05
+#### 2024-12-05
 
 The "Generate Export" function has been temporarily disabled.
 We are working on bringing it back as soon as possible.

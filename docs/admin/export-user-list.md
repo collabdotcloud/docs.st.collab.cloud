@@ -1,6 +1,6 @@
 You are now able to export and download your organization's user list.
 
-To do so, click on the "GENERATE EXPORT" link.
+To do so, click on the "GENERATE EXPORT" link. The report will always contain the data for all users.
 
 Depending on your amount of users it can take a while till you see the "DOWNLOAD EXPORT" link.
 
