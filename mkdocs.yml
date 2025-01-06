@@ -6,24 +6,24 @@ repo_url: https://collab.cloud
 repo_name: collab.cloud
 
 theme:
-    name: material
-    features:
-        - navigation.tabs
-        - navigation.sticky
-    palette:
-        primary: cyan #2ABDEA
-        accent: grey
-    favicon: assets/images/favicon.png
+      name: material
+      features:
+          - navigation.tabs
+          - navigation.sticky
+      palette:
+            primary: cyan #2ABDEA
+            accent: grey
+      favicon: assets/images/favicon.png
 #  logo: assets/images/logo.svg
 
 extra:
-    social:
-        - icon: fontawesome/brands/github-alt
-          link: https://github.com/collabdotcloud
-        - icon: fontawesome/brands/twitter
-          link: https://twitter.com/3thirdscollab
-        - icon: fontawesome/brands/linkedin
-          link: https://www.linkedin.com/company/threethirds-hcl-cloud-hosting
+      social:
+          - icon: fontawesome/brands/github-alt
+            link: https://github.com/collabdotcloud
+          - icon: fontawesome/brands/twitter
+            link: https://twitter.com/3thirdscollab
+          - icon: fontawesome/brands/linkedin
+            link: https://www.linkedin.com/company/threethirds-hcl-cloud-hosting
 
 nav:
     - Home: index.md
@@ -61,16 +61,16 @@ nav:
                 - Sametime Client Authentication: admin/admin-sametime.md
           - Extensions:
                 - Connections AppReg: admin/appreg.md
-                - WebEx: admin/extension-webex.md
+                # - WebEx: admin/extension-webex.md
                 - Bookmarks in new Tab: admin/extension-bookmarks.md
-                - Searchresults in new Tab: admin/extension-search.md
+                #- Searchresults in new Tab: admin/extension-search.md
                 - Connections API: admin/connections-api.md
                 - Desktop Connector: admin/desktop-connector-windows.md
-                - Engagement Center: admin/icec-feeds.md                
+                - Engagement Center: admin/icec-feeds.md
                 - Mobile App:
                       - General Settings: admin/connections-mobile-app.md
                       - Add Activities Plus: admin/connections-mobile-app-add-aplus.md
-                - Disable Sametime: admin/extension-disable-sametime.md
+                # - Disable Sametime: admin/extension-disable-sametime.md
                 - Customize UI: admin/extensions/custom-css.md
                 - Disable Activities on Connections Plug-ins for HCL Notes: admin/policy-connections-plugin-notes.md
           - Connections 8:
@@ -82,7 +82,7 @@ nav:
                 - Chat: admin/hc7/chat.md
                 - Meeting: admin/hc7/meeting.md
                 - Social Homepage: admin/hc7/connections-social-homepage.md
-                - Announcements: admin/hc7/announcements.md                
+                - Announcements: admin/hc7/announcements.md
                 - Outlook Plugin: admin/hc7/outlook-plugin.md
           - 3rd-party Cookies:
                 - Chrome: admin/3rdpartycookies/chrome.md
@@ -127,7 +127,6 @@ nav:
                 - Activities Plus Mobile App: users/aplus-mobile-app.md
                 - Activities Plus Free Onboarding session: users/aplus-learning.md
                 - Kudos Boards (premium experience): users/aplus-boards.md
-          
 
     - Help:
           - Troubleshooting & Support: help/troubleshooting-support.md
@@ -148,17 +147,16 @@ markdown_extensions:
     - admonition
     - attr_list
     - codehilite:
-          guess_lang: false
+            guess_lang: false
     - toc:
-          permalink: true
+            permalink: true
 
 extra_css:
     - "/assets/css/custom.css"
 
-
 plugins:
     - search:
-          lang: en
+            lang: en
     - redirects:
-          redirect_maps:
-              "admin/api-clients.md": "admin/connections-api.md"
+            redirect_maps:
+                  "admin/api-clients.md": "admin/connections-api.md"
