@@ -147,10 +147,6 @@ For testing the cacheExpiration (in seconds) should be low.
 
 For production the cacheExpiration value should be very high. Connections 8 - with the current fixpack 8 - loads the customizations dynamically. If the cache is not set or too low you'll notice that the original UI will load first and your changes will be applied after the page has loaded. This leads to an annoying flicker the first time connections is loaded in your browser.
 
-
-
-
-
 ## Deployment process
 
 We don't have an automated way yet. You need to create a support ticket and attach the zipped code (css, js, images) to it.

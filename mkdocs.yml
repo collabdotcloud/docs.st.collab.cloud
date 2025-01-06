@@ -87,6 +87,7 @@ nav:
                 - Engagement Center: admin/extensions/icec-feeds.md
                 - Customize UI: admin/extensions/custom-css.md
                 - Bookmarks in new Tab: admin/extensions/extension-bookmarks.md
+                - Left Navigation: admin/extensions/navbar.md
 
           - 3rd-party Cookies:
                 - Chrome: admin/3rdpartycookies/chrome.md
@@ -105,7 +106,7 @@ nav:
                 - Getting Started: users/using-connections-gettingstarted.md
                 - Social Homepage: users/connections-orientme.md
                 - Extensions:
-                      - WebEx: users/using-webex-extension.md
+                      # - WebEx: users/using-webex-extension.md
                       - Desktop Sync for Mac: users/desktop-plugins-mac.md
                       - Desktop Plug-ins for Windows: users/desktop-plugins-windows.md
                       - Connections Plug-ins for HCL Notes: users/connections-plugin-notes.md

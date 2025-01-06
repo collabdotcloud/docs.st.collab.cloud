@@ -18,7 +18,7 @@ To manually set up Sametime embedded client for Notes - configure the following 
 
 |General||
 |-------|-------|
-|Server Community name|Depends where your service is located:<br/>`chatna.collab.cloud` (North America)<br/>`chateu.collab.cloud` (Europe)|
+|Server Community name|Depends on your tenant. example:<br/>`webchat-threethirdseu.collab.cloud` |
 
 |Login||
 |-------|-------|
@@ -26,14 +26,14 @@ To manually set up Sametime embedded client for Notes - configure the following 
 |Password|-leave blank-|
 |Automatically Log In|-check disabled-|
 |Use Token Based Single Sign On|-check enabled-|
-|Authentication Server|Depends where your service is located:<br/>`https://loginna.collab.cloud/auth/realms/connections-mt/protocol/saml/clients/sametime` (North America)<br/>`https://logineu.collab.cloud/auth/realms/connections-mt/protocol/saml/clients/sametime` (Europe)|
+|Authentication Server|Depends on your tenant and your location. example:<br/>`https://logineu.collab.cloud/auth/realms/threet/protocol/saml/clients/sametime` |
 |Authentication Type|`SAML`|
 |Login Type|`browser`|
 |Username Tag|`email`|
 
 |Server||
 |-------|-------|
-|Host Server|Depends where your service is located:<br/>`chatna.collab.cloud` (North America)<br/>`chateu.collab.cloud` (Europe)|
+|Host Server| Depnds on your tenant:<br/>`webchat-threethirdseu.collab.cloud`|
 |Server Community Port|`1533`|
 
 |Options||
@@ -55,7 +55,7 @@ To auto-configure settings for Sametime embedded client for all users using Marv
 |-------|-------|
 |Title|collab.cloud chat|
 |Action|`Add/Change`|
-|Search-->Host Server|check `full match`<br/>Depending where your service is located:<br/>`chatna.collab.cloud` (North America)<br/>`chateu.collab.cloud` (Europe)|
+|Search-->Host Server|check `full match`<br/>Depending where your service is located:<br/>`webchat-threethirdseu.collab.cloud`|
 |Search-->Username|check `match communities for ANY username`|
 |Search-->Fix Empty?|check `fix empty communities`<br/>check `make default server community`|
 
@@ -70,14 +70,14 @@ To auto-configure settings for Sametime embedded client for all users using Marv
 |Password|-leave blank-|
 |Automatically Log In|-check disabled-|
 |Use Token Based Single Sign On|-check enabled-|
-|Authentication Server|Depends where your service is located:<br/>`https://loginna.collab.cloud/auth/realms/connections-mt/protocol/saml/clients/sametime` (North America)<br/>`https://logineu.collab.cloud/auth/realms/connections-mt/protocol/saml/clients/sametime` (Europe)|
+|Authentication Server|Depends on your tenant :<br/>`https://logineu.collab.cloud/auth/realms/threet/protocol/saml/clients/sametime`|
 |Authentication Type|`SAML`|
 |Login Type|`browser`|
 |Username Tag|`email`|
 
 |Server||
 |-------|-------|
-|Host Server|Depends where your service is located:<br/>`chatna.collab.cloud` (North America)<br/>`chateu.collab.cloud` (Europe)|
+|Host Server|Depends on your tenant. example:<br/>`webchat-threethirds.collab.cloud` |
 |Server Community Port|`1533`|
 
 |Options||
@@ -98,11 +98,11 @@ To configure initial settings for Sametime embedded client for Notes via Policy 
 
 |Basics||How to Apply This Setting|
 |-------|-------|-------|
-|HCL Sametime Server|Depends where your service is located:<br/>`chatna.collab.cloud` (North America)<br/>`chateu.collab.cloud` (Europe)|Set Initial Value|
+|HCL Sametime Server|Depends where your service is located:<br/>`webchat-threethirdseu.collab.cloud`|Set Initial Value|
 
 |Preferences-->Sametime||How to Apply This Setting|
 |-------|-------|-------|
-|Sametime Server|Depends where your service is located:<br/>`chatna.collab.cloud` (North America)<br/>`chateu.collab.cloud` (Europe)|Set Initial Value|
+|Sametime Server|Depends where your service is located:<br/>`webchat-threethirdseu.collab.cloud`|Set Initial Value|
 |Log Onto Sametime Using Single Sign-On (SSO)|-set Enabled-|Set Initial Value|
 
 ![Desktop Policy ST 1](/assets/images/screen-shots/sametime/pol-set-st-1.png)
