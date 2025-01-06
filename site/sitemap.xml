@@ -76,16 +76,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.st.collab.cloud/admin/extension-search/</loc>
-         <lastmod>2025-01-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.st.collab.cloud/admin/extension-webex/</loc>
-         <lastmod>2025-01-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.st.collab.cloud/admin/get-admin-news/</loc>
          <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
@@ -432,11 +422,6 @@
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/using-sametime/</loc>
-         <lastmod>2025-01-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.st.collab.cloud/users/using-webex-extension/</loc>
          <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
