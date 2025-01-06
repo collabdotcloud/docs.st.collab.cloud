@@ -2,7 +2,7 @@
 
 If you want to remove the Sametime integratino that sits bottom right on the page inside connections, please follow this document. It wil show you how to disable it.
 
-![Sametime Integration](../assets/images/extensions/disable-sametime.png)
+![Sametime Integration](/assets/images/extensions/disable-sametime.png)
 
 ## Installation
 
@@ -12,7 +12,7 @@ Open the Admin app and goto App Registration. And create a new app.
 
 Directly open the code editor.
 
-![Code editor](../assets/images/extensions/appreg-code-editor.png)
+![Code editor](/assets/images/extensions/appreg-code-editor.png)
 
 ### Replace the default content
 

@@ -10,21 +10,21 @@ The desktop plugins allow you to sync data locally on your computer and integrat
 
 1. Once you have installed the connector you can configure it by right click on the icon in your menu bar. Choose **_Preferences_**
 
-![install](../assets/images/screen-shots/mail/macplugin2.jpg)
+![install](/assets/images/screen-shots/mail/macplugin2.jpg)
 
 Select **_Manual Server Setup_**
 
-![install](../assets/images/screen-shots/mail/macplugin3.jpg)
+![install](/assets/images/screen-shots/mail/macplugin3.jpg)
 
 Fill in the URL of your environment
 
-![install](../assets/images/screen-shots/mail/macplugin4.jpg)
+![install](/assets/images/screen-shots/mail/macplugin4.jpg)
 
 Confirm with **_Create_**
 
-![install](../assets/images/screen-shots/mail/macplugin4.jpg)
+![install](/assets/images/screen-shots/mail/macplugin4.jpg)
 
-![install](../assets/images/screen-shots/mail/macplugin5.jpg)
+![install](/assets/images/screen-shots/mail/macplugin5.jpg)
 
 ### Add you Communities
 

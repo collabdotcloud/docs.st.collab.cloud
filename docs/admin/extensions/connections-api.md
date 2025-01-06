@@ -6,11 +6,11 @@ For the documentation for the Connections API please refer to the official Conne
 
 [HCL Connections API Documentation](https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+8.0+API+Documentation#action=openDocument&content=catcontent&ct=api)
 
-We currently use version 8 in our Single-Tenant environment.
+We use version 8 in our Single-Tenant environment.
 
 ## How do I get access to the API?
 
-The APIs support only Oauth/OIDC access.
+The APIs support only Basic/Oauth/OIDC access.
 Please open a support ticket if you want to use the API's.
 You will then be provided with your Client-ID and Client-Secret.
 
@@ -19,6 +19,8 @@ You will then be provided with your Client-ID and Client-Secret.
 To reach us, please use [support.collab.cloud](https://support.collab.cloud) and open a new ticket. Open a request with a subject and description that lets us know that you need access to the API.
 
 We will then provide you with your **Client-ID** and **Client-Secret**.
+
+If you have enabled SSO with your idp, Basic Auth requires the password in our directory for the api user. This can be set in the admin-app.
 
 ### Future plans
 
@@ -38,9 +40,7 @@ After successful authentication, the API calls are exactly as in an On-Prem envi
 
 ### Using OAuth 2.0 for Connections APIs
 
-HCL Connections has APIs that support OAuth 2.0 but also some that don't and only support "Basic Authentication".
-
-We use OAuth 2.0 for all authentication, and basic authentication is not supported.
+We use OAuth 2.0 for all authentication, and basic authentication is may no longer be supported in the future.
 
 You can still use the Basic-Auth APIs on our Connections environment like this:
 
@@ -60,11 +60,11 @@ Call our Open-ID Connect **token endpoint**. Please, use the correct one for you
 
 Use the following OAuth 2.0 config:
 
-- Grant-Type: Client-Credentials
-- Username: *Your users' username (E-mail)*
-- Password: *Your users' password*
-- Client-ID: *Your client ID* - [What is that?](#how-do-i-get-access-to-the-api)
-- Client-Secret: *Your client secret* - [Where do I find it?](#how-do-i-get-access-to-the-api)
+* Grant-Type: Client-Credentials
+* Username: *Your users' username (E-mail)*
+* Password: *Your users' password*
+* Client-ID: *Your client ID* - [What is that?](#how-do-i-get-access-to-the-api)
+* Client-Secret: *Your client secret* - [Where do I find it?](#how-do-i-get-access-to-the-api)
 
 ---
 
@@ -72,11 +72,10 @@ Use the following OAuth 2.0 config:
 
 We will use the *EU endpoint* in this example.
 
-- Request:
+* Request:
+        POST https://logineu.collab.cloud/auth/realms/threet/protocol/openid-connect/token
 
-        POST https://logineu.collab.cloud/auth/realms/connections-mt/protocol/openid-connect/token
-
-    Body: (Content-Type: `application/x-www-form-urlencoded`)
+    Body: (Content-Type: `application/x-www-form-urlencoded` )
 
         grant_type:password
         username:*Your username (E-mail)*
@@ -85,8 +84,8 @@ We will use the *EU endpoint* in this example.
         client_secret:*Your Client-Secret*
         scope:profile
 
-- Response: (Content-Type: `application/json`)
-
+* Response: (Content-Type: `application/json`)
+        
         {
             "access_token": "... your access token ...",
             "expires_in": 42900,
@@ -97,6 +96,7 @@ We will use the *EU endpoint* in this example.
             "session_state": "... you session state ...",
             "scope": "email connectionsmt profile"
         }
+        
 
 You will then be able to use the access token as a bearer token in the next requests until it expires. When it expires, you will need to perform this request again and get a new token.
 
@@ -116,16 +116,14 @@ We are not interested in the body that is returned. It will be an arbitrary Conn
 
 Please make sure to put your tenant into the subdomain.
 
-- Request:
-
+* Request:
         GET https://YOUR_TENANT.collab.cloud/files/oauth/api/nonce
 
     Headers:
 
         "Authorization": "Bearer <Your token>"
 
-- Response:
-
+* Response:
     Cookies:
 
     | Name       | Value                     | Domain       | Path | Expires | HttpOnly | Secure |
@@ -150,15 +148,14 @@ In this example, we are searching for users named Bob.
 
 We use the Profiles search API, as documented [here](https://ds_infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+6.5+API+Documentation#action=openDocument&res_title=Searching_Profiles_programmatically_65&content=apicontent).
 
-- Request
-
+* Request
         GET https://YOUR_TENANT.collab.cloud/profiles/atom/search.do?name=Bob
 
     Headers:
 
         "Cookie": "LtpaToken2=<Your LTPA token>"
 
-- Response (Content-Type: `application/xml`)
+* Response (Content-Type: `application/xml`)
 
         <?xml version="1.0" encoding="UTF-8"?>
         ...
@@ -167,41 +164,35 @@ We use the Profiles search API, as documented [here](https://ds_infolib.hcltechs
 
 ### Open-ID Connect Endpoints
 
-There are different endpoint URLs for every data center.
+There are different endpoint URLs for every data center. The [realmid] can be obtained from the login url.
+
+![loginurl](/assets/images/extensions/realm-id.png)
+
+It's the part between *realms/* and */protocol*: **threet** in the screenshot above.
 
 #### Europe
 
-- Authentication endpoint:
+* Authentication endpoint:  
+        https://logineu.collab.cloud/auth/realms/[realmid]/protocol/openid-connect/auth
 
-        https://logineu.collab.cloud/auth/realms/connections-mt/protocol/openid-connect/auth
+* Token endpoint:  
+        https://logineu.collab.cloud/auth/realms/[realmid]/protocol/openid-connect/token
 
-- Token endpoint:
-
-        https://logineu.collab.cloud/auth/realms/connections-mt/protocol/openid-connect/token
-
-- Endpoint Configuration:
-
-    [EU Open-ID configuration](https://logineu.collab.cloud/auth/realms/connections-mt/.well-known/openid-configuration)
-
-        https://logineu.collab.cloud/auth/realms/connections-mt/.well-known/openid-configuration
+* Endpoint Configuration:  
+        https://logineu.collab.cloud/auth/realms/[realmid]/.well-known/openid-configuration
 
     To see the supported features of the Enpoint and the current configuration, take a look at the JSON response of this URL.
 
 #### North America
 
-- Authentication endpoint:
+* Authentication endpoint:  
+        https://loginna.collab.cloud/auth/realms/[realmid]/protocol/openid-connect/auth
 
-        https://loginna.collab.cloud/auth/realms/connections-mt/protocol/openid-connect/auth
+* Token endpoint:  
+        https://loginna.collab.cloud/auth/realms/[realmid]/protocol/openid-connect/token
 
-- Token endpoint:
-
-        https://loginna.collab.cloud/auth/realms/connections-mt/protocol/openid-connect/token
-
-- Endpoint Configuration:
-
-    [US Open-ID configuration](https://loginna.collab.cloud/auth/realms/connections-mt/.well-known/openid-configuration)
-
-        https://loginna.collab.cloud/auth/realms/connections-mt/.well-known/openid-configuration
+* Endpoint Configuration:  
+        https://loginna.collab.cloud/auth/realms/[realmid]/.well-known/openid-configuration
 
     To see the supported features of the Enpoint and the current configuration, take a look at the JSON response of this URL.
 
@@ -211,7 +202,7 @@ If your tenant is enabled for Single Sign On (SSO) with your tenant's own IDP an
 
 1. create a user in our admin portal and assing him the admin role
 2. test the login to your tenants connections site with this admin user
-3. goto [EU](https://logineu.collab.cloud) or [US](https://loginna.collab.cloud) page and reset the password there.
+3. goto https://logineu.collab.cloud/auth/realms/[realmid]/account or https://loginna.collab.cloud/auth/realms/[realmid]/account page and reset the password there.
 
 ## Samples
 
@@ -236,7 +227,7 @@ URL=https://threethirdseu.collab.cloud
 TOKEN_ENDPOINT=https://logineu.collab.cloud
 
 DATA="grant_type=password&client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&password=$PASSWORD&username=$USERNAME"
-curl -o req1.json -k -H "Content-Type: application/x-www-form-urlencoded" --data $DATA $TOKEN_ENDPOINT/auth/realms/connections-mt/protocol/openid-connect/token -X POST
+curl -o req1.json -k -H "Content-Type: application/x-www-form-urlencoded" --data $DATA $TOKEN_ENDPOINT/auth/realms/threet/protocol/openid-connect/token -X POST
 
 TOKEN=`jq '.access_token' req1.json`
 TOKEN2=${TOKEN%\"}

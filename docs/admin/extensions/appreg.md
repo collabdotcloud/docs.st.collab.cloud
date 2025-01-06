@@ -2,15 +2,25 @@
 
 ## Where to find
 
-Organizaton Administrators can add custom Extensions via our admin portal [EU](https://admineu.collab.cloud) / [NA](https://adminna.collab.cloud).
+Organization Administrators (orgadmin) can add custom Extensions via the admin portal. As an orgadmin you will have an icon in connections' left navigation bar.
 
-![appreg](../assets/images/admin/appreg/appreg.png)
+![appreg link](/assets/images/extensions/admin-app-location.png)
+
+This will open the adminapp.
+![appreg](/assets/images/admin/appreg/appreg.png)
 
 ## What is it for
 
 With the appregistry you're able to enable or disable customizations.
 
-There is a "ThreeThirdsHeader header V2" already there. This integrates our header links into connections. Disabling or deleting this app is not recommended.
+There is a "ThreeThirds v80" app already there. This integrates our changes into connections.
+
+- link to admin app
+- integration with huddo boards
+
+**Disabling or deleting this app is not recommended.**
+
+The second app is the "Connections Tours Config". Which disables the initial Connection Tour.
 
 The official HCL documentation to the appregistry can be found [here](https://github.com/hclcnxdev/customizer/blob/master/docs/HCLConnectionsCustomizer.md) and examples are on the [HCL github](https://github.com/hclcnxdev) page.
 
@@ -22,9 +32,9 @@ Anything that can be done with javascript and css on the connections pages.
 - hide or change the images and logos
 - add a link to your online meeting tool
 - see the documentation for more samples
-- see our [Webex](extension-webex.md) example
 
 ## Limitations
 
 There's no automatic way to upload the additional files - JavaScript and/or CSS - for your extension.
-Please create a ticket for that. So we're able to upload them to the right position and provide you with the correct path for the appregistry entry.
+
+Please create a ticket for that. So we're able to upload them to the right position and provide you with the correct paths for the appregistry entry.

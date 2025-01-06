@@ -29,6 +29,17 @@ nav:
     - Home: index.md
     - Getting Started: getting-started-new.md
     - Admin Documentation:
+          - Connections 8:
+                - Whats new?: admin/hc7/whats-new.md
+                - Touchpoint: admin/hc7/touchpoint.md
+                - Sharepoint: admin/hc7/sharepoint.md
+                - Highlights: admin/hc7/highlights.md
+                - Round trip editing files: admin/hc7/round-trip-edit.md
+                - Chat: admin/hc7/chat.md
+                - Meeting: admin/hc7/meeting.md
+                - Social Homepage: admin/hc7/connections-social-homepage.md
+                - Announcements: admin/hc7/announcements.md
+                - Outlook Plugin: admin/hc7/outlook-plugin.md
           - Manage Organisation:
                 - Overview: admin/admin-org.md
                 - Organisation Info: admin/manage-org.md
@@ -60,36 +71,27 @@ nav:
                 - Federated Identity Authentication with SAML: admin/auth-saml.md
                 - Sametime Client Authentication: admin/admin-sametime.md
           - Extensions:
-                - Connections AppReg: admin/appreg.md
+                - Connections API: admin/extensions/connections-api.md
+                - Connections AppReg: admin/extensions/appreg.md
                 # - WebEx: admin/extension-webex.md
-                - Bookmarks in new Tab: admin/extension-bookmarks.md
+
                 #- Searchresults in new Tab: admin/extension-search.md
-                - Connections API: admin/connections-api.md
+                - Engagement Center: admin/extensions/icec-feeds.md
                 - Desktop Connector: admin/desktop-connector-windows.md
-                - Engagement Center: admin/icec-feeds.md
+
                 - Mobile App:
-                      - General Settings: admin/connections-mobile-app.md
-                      - Add Activities Plus: admin/connections-mobile-app-add-aplus.md
-                # - Disable Sametime: admin/extension-disable-sametime.md
+                      - General Settings: admin/extensions/connections-mobile-app.md
+                      - Add Activities Plus: admin/extensions/onnections-mobile-app-add-aplus.md
+                - Disable Activities on Connections Plug-ins for HCL Notes: admin/extensions/policy-connections-plugin-notes.md
                 - Customize UI: admin/extensions/custom-css.md
-                - Disable Activities on Connections Plug-ins for HCL Notes: admin/policy-connections-plugin-notes.md
-          - Connections 8:
-                - Whats new?: admin/hc7/whats-new.md
-                - Touchpoint: admin/hc7/touchpoint.md
-                - Sharepoint: admin/hc7/sharepoint.md
-                - Highlights: admin/hc7/highlights.md
-                - Round trip editing files: admin/hc7/round-trip-edit.md
-                - Chat: admin/hc7/chat.md
-                - Meeting: admin/hc7/meeting.md
-                - Social Homepage: admin/hc7/connections-social-homepage.md
-                - Announcements: admin/hc7/announcements.md
-                - Outlook Plugin: admin/hc7/outlook-plugin.md
+                - Bookmarks in new Tab: admin/extensions/extension-bookmarks.md
+
           - 3rd-party Cookies:
                 - Chrome: admin/3rdpartycookies/chrome.md
                 - Firefox: admin/3rdpartycookies/firefox.md
-          #- Business Partner Options:
-          #    - Manage your Customer's Organisation: admin/bp-customer-orgs.md
-          # - Latest Changes: admin/admin-latest-changes.md
+      #- Business Partner Options:
+      #    - Manage your Customer's Organisation: admin/bp-customer-orgs.md
+      # - Latest Changes: admin/admin-latest-changes.md
 
     - User Documentation:
           - Introduction: users/hello.md

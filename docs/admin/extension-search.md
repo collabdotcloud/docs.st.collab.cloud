@@ -4,7 +4,7 @@ Tired of loosing your searchresults when you click on one?
 Connections default is to open the search result in the current window. So your users need to right-click or CTRL-click on the links.
 This extensions changes the default target for links in the search app:
 
-![Search Results](../assets/images/extensions/search-overview.png)
+![Search Results](/assets/images/extensions/search-overview.png)
 
 ## Installation
 
@@ -14,7 +14,7 @@ Open the Admin app and goto App Registration. And create a new app.
 
 Directly open the code editor.
 
-![Code editor](../assets/images/extensions/appreg-code-editor.png)
+![Code editor](/assets/images/extensions/appreg-code-editor.png)
 
 ### Replace the default content
 

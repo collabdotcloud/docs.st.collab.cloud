@@ -4,13 +4,13 @@ As an organization admin (orgadmin) goto https://customername.collab.cloud/appre
 
 ## Add a new App
 
-![New App](../assets/images/extensions/appreg-new-app.png)
+![New App](/assets/images/extensions/appreg-new-app.png)
 
 ## Open the code editor
 
 Directly open the code editor.
 
-![Code editor](../assets/images/extensions/appreg-code-editor.png)
+![Code editor](/assets/images/extensions/appreg-code-editor.png)
 
 ## Delete the default content
 
@@ -42,14 +42,14 @@ Remove the default content and paste the JSON below into the editor.
 }
 ```
 
-![Code](../assets/images/extensions/appreg-paste-extension.png)
+![Code](/assets/images/extensions/appreg-paste-extension.png)
 
 Ensure that all the braces are there and are closed. The code editor validates the JSON. It shows any syntax errors.
 
-![Syntax error](../assets/images/extensions/appreg-code-error.png)
+![Syntax error](/assets/images/extensions/appreg-code-error.png)
 
 ## Save
 
-![Save](../assets/images/extensions/appreg-success.png)
+![Save](/assets/images/extensions/appreg-success.png)
 
 You should now be able to add your WebEx link. See [using the WebEx extension](../users/using-webex-extension.md)

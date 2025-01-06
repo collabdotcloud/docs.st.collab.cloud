@@ -2,7 +2,7 @@
 
 For access to the entitled software you'll find a link to the downloads in your admin-app.
 
-![Download Page](../assets/images/screen-shots/help/downloads-eu.png)
+![Download Page](/assets/images/screen-shots/help/downloads-eu.png)
 
 ---
 
