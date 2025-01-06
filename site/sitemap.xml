@@ -2,447 +2,452 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.st.collab.cloud/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/getting-started-new/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/maintenance/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/admin-latest-changes/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/admin-org/</loc>
-         <lastmod>2024-12-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.st.collab.cloud/admin/admin-sametime/</loc>
-         <lastmod>2024-12-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.st.collab.cloud/admin/appreg/</loc>
-         <lastmod>2024-12-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.st.collab.cloud/admin/auth-saml/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/bulk-actions-deactivate-user/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/bulk-actions-remove-subscription/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/bulk-actions-select-user/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/communities-change-owner/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/communities-list-per-user/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/communities-member-of/</loc>
-         <lastmod>2024-12-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.st.collab.cloud/admin/connections-api/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/connections-mail-integration/</loc>
-         <lastmod>2024-12-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.st.collab.cloud/admin/connections-mobile-app-add-aplus/</loc>
-         <lastmod>2024-12-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.st.collab.cloud/admin/connections-mobile-app/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/desktop-connector-windows/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/export-user-list/</loc>
-         <lastmod>2024-12-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.st.collab.cloud/admin/extension-bookmarks/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/extension-disable-sametime/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/extension-search/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/extension-webex/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/get-admin-news/</loc>
-         <lastmod>2024-12-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.st.collab.cloud/admin/icec-feeds/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/last-login/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/manage-org/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/manage-users-hybrid/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/manage-users/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/my-communities/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/open-support-tickets/</loc>
-         <lastmod>2024-12-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.st.collab.cloud/admin/policy-connections-plugin-notes/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/report-to-chain/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/sametime-create-maintain-groups/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/subscription-switch/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/support-role/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/3rdpartycookies/chrome/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/3rdpartycookies/firefox/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.st.collab.cloud/admin/authentication/admin-sametime/</loc>
+         <lastmod>2025-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.st.collab.cloud/admin/authentication/auth-saml/</loc>
+         <lastmod>2025-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.st.collab.cloud/admin/extensions/appreg/</loc>
+         <lastmod>2025-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.st.collab.cloud/admin/extensions/connections-api/</loc>
+         <lastmod>2025-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.st.collab.cloud/admin/extensions/connections-mobile-app-add-aplus/</loc>
+         <lastmod>2025-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.st.collab.cloud/admin/extensions/connections-mobile-app/</loc>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/extensions/custom-css/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.st.collab.cloud/admin/extensions/extension-bookmarks/</loc>
+         <lastmod>2025-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.st.collab.cloud/admin/extensions/icec-feeds/</loc>
+         <lastmod>2025-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.st.collab.cloud/admin/extensions/navbar/</loc>
+         <lastmod>2025-01-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.st.collab.cloud/admin/extensions/policy-connections-plugin-notes/</loc>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/hc7/announcements/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/hc7/chat/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/hc7/connections-social-homepage/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/hc7/highlights-rss-feed/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/hc7/highlights/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/hc7/meeting/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/hc7/outlook-plugin/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/hc7/round-trip-edit/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/hc7/sharepoint/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/hc7/touchpoint/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/admin/hc7/whats-new/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/help/downloads/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/help/events-widget/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/help/faq/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/help/har-trace/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/help/known-issues/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/help/release-notes/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/help/reset-support-password/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/help/troubleshooting-support/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/help/using-the-support-portal/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/aplus-boards/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/aplus-for-comm-managers/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/aplus-for-users/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/aplus-gettingstarted/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/aplus-learning/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/aplus-members/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/aplus-mobile-app/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/aplus-roles/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/aplus-start-page/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/aplus-tags/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/aplus-view/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/connections-external-users/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/connections-mobile-app/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/connections-orientme/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/connections-plugin-notes/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/desktop-plugins-mac/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/desktop-plugins-windows/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/hello/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/quotas-storage/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/using-connections-gettingstarted/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/using-mail-gettingstarted/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/using-mail-verse/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/using-sametime-gettingstarted/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/using-sametime-groups-stclient/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/using-sametime-groups-stweb/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/using-sametime/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/using-webex-extension/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/verse-traveler/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.st.collab.cloud/users/communities/trash/</loc>
-         <lastmod>2024-12-16</lastmod>
+         <lastmod>2025-01-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
