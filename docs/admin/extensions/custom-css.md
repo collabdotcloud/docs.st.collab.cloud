@@ -28,7 +28,7 @@ You need:
 
 Steps:
 
-- create a ticket with the logo
+- create a ticket with the logo. so we can upload the logo to the server.
 - add the following app in the appregistry
 
 ```json

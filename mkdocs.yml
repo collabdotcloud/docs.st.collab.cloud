@@ -38,7 +38,7 @@ nav:
                 - Chat: admin/hc7/chat.md
                 - Meeting: admin/hc7/meeting.md
                 - Social Homepage: admin/hc7/connections-social-homepage.md
-                - Announcements: admin/hc7/announcements.md
+                #- Announcements: admin/hc7/announcements.md
                 - Outlook Plugin: admin/hc7/outlook-plugin.md
           - Manage Organisation:
                 - Overview: admin/admin-org.md
@@ -68,21 +68,23 @@ nav:
           - Manage Sametime Groups:
                 - Create/Maintain Groups: admin/sametime-create-maintain-groups.md
           - Authentication:
-                - Federated Identity Authentication with SAML: admin/auth-saml.md
-                - Sametime Client Authentication: admin/admin-sametime.md
+                - Federated Identity Authentication with SAML: admin/authentication/auth-saml.md
+                - Sametime Client Authentication: admin/authentication/admin-sametime.md
           - Extensions:
                 - Connections API: admin/extensions/connections-api.md
-                - Connections AppReg: admin/extensions/appreg.md
+
                 # - WebEx: admin/extension-webex.md
 
                 #- Searchresults in new Tab: admin/extension-search.md
-                - Engagement Center: admin/extensions/icec-feeds.md
                 - Desktop Connector: admin/desktop-connector-windows.md
 
                 - Mobile App:
                       - General Settings: admin/extensions/connections-mobile-app.md
                       - Add Activities Plus: admin/extensions/onnections-mobile-app-add-aplus.md
+
                 - Disable Activities on Connections Plug-ins for HCL Notes: admin/extensions/policy-connections-plugin-notes.md
+                - Connections AppReg: admin/extensions/appreg.md
+                - Engagement Center: admin/extensions/icec-feeds.md
                 - Customize UI: admin/extensions/custom-css.md
                 - Bookmarks in new Tab: admin/extensions/extension-bookmarks.md
 

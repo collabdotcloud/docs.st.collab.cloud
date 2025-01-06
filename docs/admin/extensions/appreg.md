@@ -38,3 +38,13 @@ Anything that can be done with javascript and css on the connections pages.
 There's no automatic way to upload the additional files - JavaScript and/or CSS - for your extension.
 
 Please create a ticket for that. So we're able to upload them to the right position and provide you with the correct paths for the appregistry entry.
+
+## Common Issues with the editor
+
+- An app (json) can't be saved if the json is not valid => will be indicated in the UI. Use a lint tool like [Jsonlint.com](https://jsonlint.com) to verify the json syntax.
+
+- An app can't be saved if some parts are not recognized. No indication here. It will just not save.
+
+- It's a good practice to reload the appregistry page after each save.
+
+- Write the json in your favorite editor and copy&paste it into the appreg editor.
