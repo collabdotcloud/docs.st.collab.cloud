@@ -42,6 +42,7 @@ To manually set up Sametime embedded client for Notes - configure the following 
 |Use canonical names for status lookup|-leave blank-|
 
 ![ST Manual Setup](/assets/images/screen-shots/sametime/st-set-st-1.png)
+![ST Manual Setup](/assets/images/screen-shots/sametime/st-set-st-2.png)
 
 ---
 
