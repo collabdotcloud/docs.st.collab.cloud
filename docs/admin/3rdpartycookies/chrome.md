@@ -11,5 +11,3 @@ In Chrome settings, go to Privacy and Security, scroll to the bottom, click on "
 Save the settings, return to your Boards tab and reload the site. The Connections header will be displayed, embedding your Boards.
 
 ![Last login](/assets/images/admin/3rdpartycookies/boards_header.png)
-
-test
