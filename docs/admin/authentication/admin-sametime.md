@@ -18,7 +18,7 @@ To manually set up Sametime embedded client for Notes - configure the following 
 
 |General||
 |-------|-------|
-|Server Community name|Depends on your tenant. example:<br/>`webchat-threethirdseu.collab.cloud` |
+|Server Community name|Depends on your tenant. example:<br/>`chat-threethirdseu.collab.cloud` |
 
 |Login||
 |-------|-------|
@@ -26,15 +26,15 @@ To manually set up Sametime embedded client for Notes - configure the following 
 |Password|-leave blank-|
 |Automatically Log In|-check disabled-|
 |Use Token Based Single Sign On|-check enabled-|
-|Authentication Server|Depends on your tenant and your location. example:<br/>`https://logineu.collab.cloud/auth/realms/threet/protocol/saml/clients/sametime` |
+|Authentication Server|Depends on your tenant and your location. example:<br/>`https://logineu.collab.cloud/auth/realms/threet/protocol/saml/clients/sametime12` |
 |Authentication Type|`SAML`|
 |Login Type|`browser`|
 |Username Tag|`email`|
 
 |Server||
 |-------|-------|
-|Host Server| Depnds on your tenant:<br/>`webchat-threethirdseu.collab.cloud`|
-|Server Community Port|`1533`|
+|Host Server| Depnds on your tenant:<br/>`chat-threethirdseu.collab.cloud`|
+|Server Community Port| Depends on your tenant:<br/>`14803`|
 
 |Options||
 |-------|-------|
