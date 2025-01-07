@@ -34,7 +34,7 @@ To manually set up Sametime embedded client for Notes - configure the following 
 |Server||
 |-------|-------|
 |Host Server| Depnds on your tenant:<br/>`chat-threethirdseu.collab.cloud`|
-|Server Community Port| Depends on your tenant:<br/>`14803`|
+|Server Community Port| Depends on your tenant:<br/>`14802`|
 
 |Options||
 |-------|-------|
@@ -56,7 +56,7 @@ To auto-configure settings for Sametime embedded client for all users using Marv
 |-------|-------|
 |Title|collab.cloud chat|
 |Action|`Add/Change`|
-|Search-->Host Server|check `full match`<br/>Depending where your service is located:<br/>`webchat-threethirdseu.collab.cloud`|
+|Search-->Host Server|check `full match`<br/>Depending where your service is located:<br/>`chat-threethirdseu.collab.cloud`|
 |Search-->Username|check `match communities for ANY username`|
 |Search-->Fix Empty?|check `fix empty communities`<br/>check `make default server community`|
 
@@ -71,15 +71,15 @@ To auto-configure settings for Sametime embedded client for all users using Marv
 |Password|-leave blank-|
 |Automatically Log In|-check disabled-|
 |Use Token Based Single Sign On|-check enabled-|
-|Authentication Server|Depends on your tenant :<br/>`https://logineu.collab.cloud/auth/realms/threet/protocol/saml/clients/sametime`|
+|Authentication Server|Depends on your tenant :<br/>`https://logineu.collab.cloud/auth/realms/threet/protocol/saml/clients/sametime12`|
 |Authentication Type|`SAML`|
 |Login Type|`browser`|
 |Username Tag|`email`|
 
 |Server||
 |-------|-------|
-|Host Server|Depends on your tenant. example:<br/>`webchat-threethirds.collab.cloud` |
-|Server Community Port|`1533`|
+|Host Server|Depends on your tenant. example:<br/>`chat-threethirdseu.collab.cloud` |
+|Server Community Port|Depends on your tenant: `14802`|
 
 |Options||
 |-------|-------|
@@ -99,11 +99,11 @@ To configure initial settings for Sametime embedded client for Notes via Policy 
 
 |Basics||How to Apply This Setting|
 |-------|-------|-------|
-|HCL Sametime Server|Depends where your service is located:<br/>`webchat-threethirdseu.collab.cloud`|Set Initial Value|
+|HCL Sametime Server|Depends where your service is located:<br/>`chat-threethirdseu.collab.cloud`|Set Initial Value|
 
 |Preferences-->Sametime||How to Apply This Setting|
 |-------|-------|-------|
-|Sametime Server|Depends where your service is located:<br/>`webchat-threethirdseu.collab.cloud`|Set Initial Value|
+|Sametime Server|Depends where your service is located:<br/>`chat-threethirdseu.collab.cloud`|Set Initial Value|
 |Log Onto Sametime Using Single Sign-On (SSO)|-set Enabled-|Set Initial Value|
 
 ![Desktop Policy ST 1](/assets/images/screen-shots/sametime/pol-set-st-1.png)
