@@ -80,7 +80,7 @@ nav:
 
                 - Mobile App:
                       - General Settings: admin/extensions/connections-mobile-app.md
-                      - Add Activities Plus: admin/extensions/onnections-mobile-app-add-aplus.md
+                      - Add Activities Plus: admin/extensions/connections-mobile-app-add-aplus.md
 
                 - Disable Activities on Connections Plug-ins for HCL Notes: admin/extensions/policy-connections-plugin-notes.md
                 - Connections AppReg: admin/extensions/appreg.md
