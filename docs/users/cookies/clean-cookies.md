@@ -1,35 +1,33 @@
 # Remove cookies
 
-If you have troubles with your login you should clear the stored cookies for collab.cloud.
-
+If you have troubles with your login you should clear the stored cookies for **collab.cloud**.
 
 ## Chrome, Chromium
 
 See [Chrome Support Page](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cdelete-cookies-from-a-site)
 
-Open Settings and goto "Privacy and security" -> Third Party Cookies
+Open Settings and goto **Privacy and security** -> Third Party Cookies
 ![Step 1](/assets/images/user/cookies/image1.png)
 
-Scroll down to "See all site data and permissions"
+Scroll down to **See all site data and permissions**
 ![Step 2](/assets/images/user/cookies/image2.png)
 
-On top right enter "collab.cloud". You should get a list as in the screenshot, then click on "Delete displayed data"
+On top right enter **collab.cloud**. You should get a list as in the screenshot, then click on Delete displayed data
 
 ![Example Screenshot](/assets/images/user/cookies/chrome-clean.png)
 
 ## Firefox
 
-Open the Firefox Settings and goto "Privacy and security"
+Open the Firefox Settings and goto **Privacy and security**
 
 ![Step 1](/assets/images/user/cookies/ff-image1.png)
 
-Click on "Manage Data"
+Click on **Manage Data**
 ![Step 2](/assets/images/user/cookies/ff-image2.png)
 
 In the search box (1) enter **collab.cloud** then select the site (2) and hit **Remove Selected** (3)
 
 ![Step 3](/assets/images/user/cookies/ff-image3.png)
-
 
 ## Edge
 
