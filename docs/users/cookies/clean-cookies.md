@@ -44,3 +44,13 @@ Goto **See all cookies and site data**
 Enter **collab.cloud** in the searchbox (1). Make sure that only the collab.cloud is displayed and click on the **Remove all shown** (2) button.
 
 ![Step 3](/assets/images/user/cookies/edge-image3.png)
+
+## Safari
+
+Open the Settings page and go to **Privacy – Manage Website Data…**
+
+![Step 1](/assets/images/user/cookies/safari-image1.png)
+
+Enter **collab.cloud** in the searchbox (1). Make sure that only the collab.cloud is displayed (2), click on the **Remove all** (3) button and confirm with **Done** (4)
+
+![Step 2](/assets/images/user/cookies/safari-image2.png)
