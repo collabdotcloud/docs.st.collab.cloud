@@ -135,6 +135,7 @@ nav:
 
     - Help:
           - Troubleshooting & Support: help/troubleshooting-support.md
+          - Clean Browser Cookies: users/cookies/clean-cookies.md
           - Using the Support Portal: help/using-the-support-portal.md
           - Reset you Support Portal password: help/reset-support-password.md
           - Collecting an HAR Trace: help/har-trace.md
