@@ -2,6 +2,11 @@
 
 The list of changes and fixes in the Administration Console (admin-app)
 
+
+#### 2025-02-14
+Unlock Users. A user may be locked due too many failed login attempts. Permanently locked users may now be unlocked through the admin app
+
+
 #### 2024-12-16
 
 The "Generate Export" function is now active again.
