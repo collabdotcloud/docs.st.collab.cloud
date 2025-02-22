@@ -29,4 +29,4 @@ Find more information [here](https://www.hcltechsw.com/products/domino)
 
 ## Planned maintenance
 
-**IDP update** planned for February, 15 21:00 to 23:00 CET see [Details](maintenance.md)
+**IDP update** planned for February, 22 21:00 to 23:00 CET see [Details](maintenance.md)
