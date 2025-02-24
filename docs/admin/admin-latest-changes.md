@@ -2,6 +2,10 @@
 
 The list of changes and fixes in the Administration Console (admin-app)
 
+#### 2025-02-24
+
+- Support for MFA reset. In case a user has lost the MFA device, an admin is now able to reset their devices through our admin-app.
+
 #### 2025-02-14
 
 Unlock Users. A user may be locked due too many failed login attempts. Permanently locked users may now be unlocked through the admin app
