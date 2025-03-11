@@ -3,7 +3,7 @@
 ICEC is in cloud mode which uses a tighter security model.  
 It requires to whitelist any feed urls per default.
 
-With the latest HCL Connections 8 update, please follow these instructions [Customizer Proxy](/admin/highlights-rss-feed.md)
+With the latest HCL Connections 8 update, please follow these instructions [Customizer Proxy](/admin/hc7/highlights-rss-feed.md)
 
 ## Manage the whitelist
 
