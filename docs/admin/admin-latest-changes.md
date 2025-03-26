@@ -2,6 +2,10 @@
 
 The list of changes and fixes in the Administration Console (admin-app)
 
+#### 2025-03-19
+
+- Export users failed under certain circumstances
+
 #### 2025-02-25
 
 - Community list is now searchable
