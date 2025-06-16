@@ -2,6 +2,10 @@
 
 The list of changes and fixes in the Administration Console (admin-app)
 
+#### 2025-06-16
+
+- Fix for the provisioning api bug. Re-activate a HCL Connections account should now update the email-address properly.
+
 #### 2025-03-19
 
 - Export users failed under certain circumstances
