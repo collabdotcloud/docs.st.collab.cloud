@@ -8,8 +8,21 @@ repo_name: collab.cloud
 theme:
       name: material
       features:
-          - navigation.tabs
-          - navigation.sticky
+            - navigation.tabs
+            - navigation.sticky
+            - announce.dismiss
+            - content.action.edit
+            - navigation.footer
+            - navigation.indexes
+            - navigation.instant
+            - navigation.instant.progress
+            - navigation.sections
+            - navigation.tabs
+            - navigation.sticky
+            - navigation.top
+            - navigation.tracking
+            - navigation.prune
+            - toc.follow
       palette:
             primary: cyan #2ABDEA
             accent: grey
@@ -18,151 +31,151 @@ theme:
 
 extra:
       social:
-          - icon: fontawesome/brands/github-alt
-            link: https://github.com/collabdotcloud
-          - icon: fontawesome/brands/twitter
-            link: https://twitter.com/3thirdscollab
-          - icon: fontawesome/brands/linkedin
-            link: https://www.linkedin.com/company/threethirds-hcl-cloud-hosting
+            - icon: fontawesome/brands/github-alt
+              link: https://github.com/collabdotcloud
+            - icon: fontawesome/brands/twitter
+              link: https://twitter.com/3thirdscollab
+            - icon: fontawesome/brands/linkedin
+              link: https://www.linkedin.com/company/threethirds-hcl-cloud-hosting
 
 nav:
-    - Home: index.md
-    - Getting Started: getting-started-new.md
-    - Admin Documentation:
-          - Connections 8:
-                - Whats new?: admin/hc7/whats-new.md
-                - Touchpoint: admin/hc7/touchpoint.md
-                - Sharepoint: admin/hc7/sharepoint.md
-                - Highlights: admin/hc7/highlights.md
-                - Round trip editing files: admin/hc7/round-trip-edit.md
-                - Chat: admin/hc7/chat.md
-                - Meeting: admin/hc7/meeting.md
-                - Social Homepage: admin/hc7/connections-social-homepage.md
-                #- Announcements: admin/hc7/announcements.md
-                - Outlook Plugin: admin/hc7/outlook-plugin.md
-          - Manage Organisation:
-                - Overview: admin/admin-org.md
-                - Organisation Info: admin/manage-org.md
-                - Open Support Tickets: admin/open-support-tickets.md
-                - Communities:
-                      - My Communities: admin/my-communities.md
-                      - Member of: admin/communities-member-of.md
-          - Manage Users:
-                - General: admin/manage-users.md
-                - For Hybrid Customers: admin/manage-users-hybrid.md
-                - Additional Roles:
-                      - Get Admin News: admin/get-admin-news.md
-                      - Support Role: admin/support-role.md
-                #      - Mail/IM Only Customers: admin/manage-users-mailim.md
-                - Last Login: admin/last-login.md
-                - Export User List: admin/export-user-list.md
-                - Switch Subscription: admin/subscription-switch.md
-                - Bulk Actions:
-                      - Select Users: admin/bulk-actions-select-user.md
-                      - Remove Connections Subscriptions: admin/bulk-actions-remove-subscription.md
-                      - Deactivate Users: admin/bulk-actions-deactivate-user.md
-                - Report-to Chain: admin/report-to-chain.md
-          - Manage Communities:
-                - List Communities per User: admin/communities-list-per-user.md
-                - Change Owner of a Community: admin/communities-change-owner.md
-          - Manage Sametime Groups:
-                - Create/Maintain Groups: admin/sametime-create-maintain-groups.md
-          - Authentication:
-                - Federated Identity Authentication with SAML: admin/authentication/auth-saml.md
-                - Sametime Client Authentication: admin/authentication/admin-sametime.md
-          - Extensions:
-                - Connections API: admin/extensions/connections-api.md
+      - Home: index.md
+      - Getting Started: getting-started-new.md
+      - Admin Documentation:
+              - Connections 8:
+                      - Whats new?: admin/hc7/whats-new.md
+                      - Touchpoint: admin/hc7/touchpoint.md
+                      - Sharepoint: admin/hc7/sharepoint.md
+                      - Highlights: admin/hc7/highlights.md
+                      - Round trip editing files: admin/hc7/round-trip-edit.md
+                      - Chat: admin/hc7/chat.md
+                      - Meeting: admin/hc7/meeting.md
+                      - Social Homepage: admin/hc7/connections-social-homepage.md
+                      #- Announcements: admin/hc7/announcements.md
+                      - Outlook Plugin: admin/hc7/outlook-plugin.md
+              - Manage Organisation:
+                      - Overview: admin/admin-org.md
+                      - Organisation Info: admin/manage-org.md
+                      - Open Support Tickets: admin/open-support-tickets.md
+                      - Communities:
+                              - My Communities: admin/my-communities.md
+                              - Member of: admin/communities-member-of.md
+              - Manage Users:
+                      - General: admin/manage-users.md
+                      - For Hybrid Customers: admin/manage-users-hybrid.md
+                      - Additional Roles:
+                              - Get Admin News: admin/get-admin-news.md
+                              - Support Role: admin/support-role.md
+                      #      - Mail/IM Only Customers: admin/manage-users-mailim.md
+                      - Last Login: admin/last-login.md
+                      - Export User List: admin/export-user-list.md
+                      - Switch Subscription: admin/subscription-switch.md
+                      - Bulk Actions:
+                              - Select Users: admin/bulk-actions-select-user.md
+                              - Remove Connections Subscriptions: admin/bulk-actions-remove-subscription.md
+                              - Deactivate Users: admin/bulk-actions-deactivate-user.md
+                      - Report-to Chain: admin/report-to-chain.md
+              - Manage Communities:
+                      - List Communities per User: admin/communities-list-per-user.md
+                      - Change Owner of a Community: admin/communities-change-owner.md
+              - Manage Sametime Groups:
+                      - Create/Maintain Groups: admin/sametime-create-maintain-groups.md
+              - Authentication:
+                      - Federated Identity Authentication with SAML: admin/authentication/auth-saml.md
+                      - Sametime Client Authentication: admin/authentication/admin-sametime.md
+              - Extensions:
+                      - Connections API: admin/extensions/connections-api.md
 
-                # - WebEx: admin/extension-webex.md
+                      # - WebEx: admin/extension-webex.md
 
-                #- Searchresults in new Tab: admin/extension-search.md
-                - Desktop Connector: admin/desktop-connector-windows.md
+                      #- Searchresults in new Tab: admin/extension-search.md
+                      - Desktop Connector: admin/desktop-connector-windows.md
 
-                - Mobile App:
-                      - General Settings: admin/extensions/connections-mobile-app.md
-                      - Add Activities Plus: admin/extensions/connections-mobile-app-add-aplus.md
+                      - Mobile App:
+                              - General Settings: admin/extensions/connections-mobile-app.md
+                              - Add Activities Plus: admin/extensions/connections-mobile-app-add-aplus.md
 
-                - Disable Activities on Connections Plug-ins for HCL Notes: admin/extensions/policy-connections-plugin-notes.md
-                - Connections AppReg: admin/extensions/appreg.md
-                - Engagement Center: admin/extensions/icec-feeds.md
-                - Customize UI: admin/extensions/custom-css.md
-                - Bookmarks in new Tab: admin/extensions/extension-bookmarks.md
-                - Left Navigation: admin/extensions/navbar.md
+                      - Disable Activities on Connections Plug-ins for HCL Notes: admin/extensions/policy-connections-plugin-notes.md
+                      - Connections AppReg: admin/extensions/appreg.md
+                      - Engagement Center: admin/extensions/icec-feeds.md
+                      - Customize UI: admin/extensions/custom-css.md
+                      - Bookmarks in new Tab: admin/extensions/extension-bookmarks.md
+                      - Left Navigation: admin/extensions/navbar.md
 
-          - 3rd-party Cookies:
-                - Chrome: admin/3rdpartycookies/chrome.md
-                - Firefox: admin/3rdpartycookies/firefox.md
-      #- Business Partner Options:
-      #    - Manage your Customer's Organisation: admin/bp-customer-orgs.md
-      # - Latest Changes: admin/admin-latest-changes.md
+              - 3rd-party Cookies:
+                      - Chrome: admin/3rdpartycookies/chrome.md
+                      - Firefox: admin/3rdpartycookies/firefox.md
+        #- Business Partner Options:
+        #    - Manage your Customer's Organisation: admin/bp-customer-orgs.md
+        # - Latest Changes: admin/admin-latest-changes.md
 
-    - User Documentation:
-          - Introduction: users/hello.md
-          - Using Mail:
-                - Getting Started: users/using-mail-gettingstarted.md
-                - Using Mail & Verse: users/using-mail-verse.md
-                - HCL Verse on your Smartphone or tablet: users/verse-traveler.md
-          - Using Connections:
-                - Getting Started: users/using-connections-gettingstarted.md
-                - Social Homepage: users/connections-orientme.md
-                - Extensions:
-                      # - WebEx: users/using-webex-extension.md
-                      - Desktop Sync for Mac: users/desktop-plugins-mac.md
-                      - Desktop Plug-ins for Windows: users/desktop-plugins-windows.md
-                      - Connections Plug-ins for HCL Notes: users/connections-plugin-notes.md
-                - Quotas and storage: users/quotas-storage.md
-                - Connections Mobile App: users/connections-mobile-app.md
-                - External users: users/connections-external-users.md
-                - Community File Trash: users/communities/trash.md
-          - Using Sametime Chat:
-                - Getting Started: users/using-sametime-gettingstarted.md
-                - Using Sametime Chat: users/using-sametime.md
-                - Using Sametime Groups:
-                      - Web Client: users/using-sametime-groups-stweb.md
-                      - Sametime Client: users/using-sametime-groups-stclient.md
-          - Using Activities Plus:
-                - Getting Started: users/aplus-gettingstarted.md
-                - Accessing Activities Plus: users/aplus-for-users.md
-                - For Community Managers: users/aplus-for-comm-managers.md
-                - Start page: users/aplus-start-page.md
-                - Working with an activity: users/aplus-view.md
-                - Members and assigning of tasks: users/aplus-members.md
-                - Colour tags and filtering: users/aplus-tags.md
-                - Member roles: users/aplus-roles.md
-                - Activities Plus Mobile App: users/aplus-mobile-app.md
-                - Activities Plus Free Onboarding session: users/aplus-learning.md
-                - Kudos Boards (premium experience): users/aplus-boards.md
+      - User Documentation:
+              - Introduction: users/hello.md
+              - Using Mail:
+                      - Getting Started: users/using-mail-gettingstarted.md
+                      - Using Mail & Verse: users/using-mail-verse.md
+                      - HCL Verse on your Smartphone or tablet: users/verse-traveler.md
+              - Using Connections:
+                      - Getting Started: users/using-connections-gettingstarted.md
+                      - Social Homepage: users/connections-orientme.md
+                      - Extensions:
+                              # - WebEx: users/using-webex-extension.md
+                              - Desktop Sync for Mac: users/desktop-plugins-mac.md
+                              - Desktop Plug-ins for Windows: users/desktop-plugins-windows.md
+                              - Connections Plug-ins for HCL Notes: users/connections-plugin-notes.md
+                      - Quotas and storage: users/quotas-storage.md
+                      - Connections Mobile App: users/connections-mobile-app.md
+                      - External users: users/connections-external-users.md
+                      - Community File Trash: users/communities/trash.md
+              - Using Sametime Chat:
+                      - Getting Started: users/using-sametime-gettingstarted.md
+                      - Using Sametime Chat: users/using-sametime.md
+                      - Using Sametime Groups:
+                              - Web Client: users/using-sametime-groups-stweb.md
+                              - Sametime Client: users/using-sametime-groups-stclient.md
+              - Using Activities Plus:
+                      - Getting Started: users/aplus-gettingstarted.md
+                      - Accessing Activities Plus: users/aplus-for-users.md
+                      - For Community Managers: users/aplus-for-comm-managers.md
+                      - Start page: users/aplus-start-page.md
+                      - Working with an activity: users/aplus-view.md
+                      - Members and assigning of tasks: users/aplus-members.md
+                      - Colour tags and filtering: users/aplus-tags.md
+                      - Member roles: users/aplus-roles.md
+                      - Activities Plus Mobile App: users/aplus-mobile-app.md
+                      - Activities Plus Free Onboarding session: users/aplus-learning.md
+                      - Kudos Boards (premium experience): users/aplus-boards.md
 
-    - Help:
-          - Troubleshooting & Support: help/troubleshooting-support.md
-          - Clean Browser Cookies: users/cookies/clean-cookies.md
-          - Using the Support Portal: help/using-the-support-portal.md
-          - Reset you Support Portal password: help/reset-support-password.md
-          - Collecting an HAR Trace: help/har-trace.md
-          - Downloads & Release Notes:
-                - Downloads: help/downloads.md
-                - Release Notes: help/release-notes.md
+      - Help:
+              - Troubleshooting & Support: help/troubleshooting-support.md
+              - Clean Browser Cookies: users/cookies/clean-cookies.md
+              - Using the Support Portal: help/using-the-support-portal.md
+              - Reset you Support Portal password: help/reset-support-password.md
+              - Collecting an HAR Trace: help/har-trace.md
+              - Downloads & Release Notes:
+                      - Downloads: help/downloads.md
+                      - Release Notes: help/release-notes.md
 
-    - Known Issues:
-          - "": help/known-issues.md
-          - Events Widget: help/events-widget.md
-    - Faq:
-          - "Q&A": help/faq.md
+      - Known Issues:
+              - "": help/known-issues.md
+              - Events Widget: help/events-widget.md
+      - Faq:
+              - "Q&A": help/faq.md
 
 markdown_extensions:
-    - admonition
-    - attr_list
-    - codehilite:
-            guess_lang: false
-    - toc:
-            permalink: true
+      - admonition
+      - attr_list
+      - codehilite:
+              guess_lang: false
+      - toc:
+              permalink: true
 
 extra_css:
-    - "/assets/css/custom.css"
+      - "/assets/css/custom.css"
 
 plugins:
-    - search:
-            lang: en
-    - redirects:
-            redirect_maps:
-                  "admin/api-clients.md": "admin/connections-api.md"
+      - search:
+              lang: en
+      - redirects:
+              redirect_maps:
+                    "admin/api-clients.md": "admin/extensions/connections-api.md"
