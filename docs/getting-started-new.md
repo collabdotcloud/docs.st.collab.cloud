@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Getting Started with ThreeThirds *collab.cloud*
 
 ### New Service or Migrating?
