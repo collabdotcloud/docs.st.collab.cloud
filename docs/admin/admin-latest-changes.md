@@ -2,6 +2,10 @@
 
 The list of changes and fixes in the Administration Console (admin-app)
 
+#### 2026-01-05
+
+- Export users optimized
+
 #### 2025-07-08
 
 - Fixed regression bug in reports to chain
