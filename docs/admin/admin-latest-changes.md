@@ -2,6 +2,10 @@
 
 The list of changes and fixes in the Administration Console (admin-app)
 
+#### 2026-01-07
+
+- Remove regression bug, which caused a blank screen after a new user had been created.
+
 #### 2026-01-05
 
 - Export users optimized
