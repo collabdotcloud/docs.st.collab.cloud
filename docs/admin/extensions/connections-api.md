@@ -4,7 +4,7 @@ This documentation describes how you can access the Connections API using our en
 
 For the documentation for the Connections API please refer to the official Connections API documentation:
 
-[HCL Connections API Documentation](https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+8.0+API+Documentation#action=openDocument&content=catcontent&ct=api)
+[HCL Connections API Documentation](https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+8.0+API+Documentation#action=openDocument&content=catcontent&ct=api){target="_blank"}
 
 We use version 8 in our Single-Tenant environment.
 
@@ -16,7 +16,7 @@ You will then be provided with your Client-ID and Client-Secret.
 
 **Important:** Please keep your Client-Secret a secret and only give it to people that need it and store it safely.
 
-To reach us, please use [support.collab.cloud](https://support.collab.cloud) and open a new ticket. Open a request with a subject and description that lets us know that you need access to the API.
+To reach us, please use [support.collab.cloud](https://support.collab.cloud){target="_blank"} and open a new ticket. Open a request with a subject and description that lets us know that you need access to the API.
 
 We will then provide you with your **Client-ID** and **Client-Secret**.
 
@@ -34,7 +34,7 @@ We currently don't have dedicated service accounts. However, every normal user c
 
 ## Authentication & Usage
 
-The [Connections API](https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+8.0+API+Documentation#action=openDocument&content=catcontent&ct=api) is the same as on every Connections environment. However, the authentication to Connection is different. We use OAuth 2.0 which is more modern and secure.
+The [Connections API](https://ds-infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+8.0+API+Documentation#action=openDocument&content=catcontent&ct=api){target="_blank"} is the same as on every Connections environment. However, the authentication to Connection is different. We use OAuth 2.0 which is more modern and secure.
 
 After successful authentication, the API calls are exactly as in an On-Prem environment.
 
@@ -146,7 +146,7 @@ As long as your session is active and the cookie is set in the request, you will
 
 In this example, we are searching for users named Bob.
 
-We use the Profiles search API, as documented [here](https://ds_infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+6.5+API+Documentation#action=openDocument&res_title=Searching_Profiles_programmatically_65&content=apicontent).
+We use the Profiles search API, as documented [here](https://ds_infolib.hcltechsw.com/ldd/lcwiki.nsf/xpAPIViewer.xsp?lookupName=HCL+Connections+6.5+API+Documentation#action=openDocument&res_title=Searching_Profiles_programmatically_65&content=apicontent){target="_blank"}.
 
 * Request
         GET https://YOUR_TENANT.collab.cloud/profiles/atom/search.do?name=Bob

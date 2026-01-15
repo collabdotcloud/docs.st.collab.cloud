@@ -12,7 +12,7 @@ Thank you for your continued patience and understanding!
 
 When you @mention a non-community member in an external community, the error message is unreadable.
 
-[HCL Defect](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110370)
+[HCL Defect](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110370){target="_blank"}
 
 ## Sametime does not show profile pictures
 

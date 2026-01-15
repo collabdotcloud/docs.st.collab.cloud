@@ -8,4 +8,4 @@ Coming soon!
 
 Coming soon!
 
-Go to [HCL's Verse Documentation site](https://help.hcltechsw.com/verse_onprem/1.0.9/user/welcometoibmverse.html) for more information
+Go to [HCL's Verse Documentation site](https://help.hcltechsw.com/verse_onprem/1.0.9/user/welcometoibmverse.html){target="_blank"} for more information

@@ -22,6 +22,6 @@ example:
 
 ## Mobile apps
 
-[Apple App Store](https://apps.apple.com/us/app/hcl-connections/id450533489)
+[Apple App Store](https://apps.apple.com/us/app/hcl-connections/id450533489){target="_blank"}
 
-[Android App Store](https://play.google.com/store/apps/details?id=com.ibm.lotus.connections.mobile&hl=en)
+[Android App Store](https://play.google.com/store/apps/details?id=com.ibm.lotus.connections.mobile&hl=en){target="_blank"}

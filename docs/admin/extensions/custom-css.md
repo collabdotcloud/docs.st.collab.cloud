@@ -12,7 +12,7 @@
 - time
 - CSS and JavaScript know-how
 - Browser with WebDeveloper Exensions
-- [Chrome User CSS extension](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb?hl=de)
+- [Chrome User CSS extension](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb?hl=de){target="_blank"}
 - coffee or tea
 
 ## Where to start
@@ -64,7 +64,7 @@ Steps:
 ```
 
 This json is used to register the customization in the [app registry](/admin/appreg).
-A reference and examples are located in [HCL Connections UI components](https://github.com/HCL-TECH-SOFTWARE/connections-ui-docs)
+A reference and examples are located in [HCL Connections UI components](https://github.com/HCL-TECH-SOFTWARE/connections-ui-docs){target="_blank"}
 
 ### Result
 

@@ -14,7 +14,7 @@ All Organisation Admins have access to this portal and your account has been cre
 
 If you experience a problem with any of our services, and want to open a support case, please go to
 
-[support.collab.cloud](https://support.collab.cloud)
+[support.collab.cloud](https://support.collab.cloud){target="_blank"}
 
 ![Support Portal Login Page](/assets/images/screen-shots/help/help-login.png)
 

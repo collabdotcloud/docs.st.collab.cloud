@@ -4,7 +4,7 @@ We are currently experiencing issues with the events widget in our environment, 
 
 ## Add Highligts and set as landing page
 
-The new Highlights application ( [New Connections 8 feature](https://docs.st.collab.cloud/admin/hc7/highlights/){:target="_blank"} ) contains a new widget that uses a different way of loading than the classical events widget. This one works, so first step is to add the Highlights Application and set it as the start page for the community
+The new Highlights application ( [New Connections 8 feature](https://docs.st.collab.cloud/admin/hc7/highlights/){target="_blank"}{:target="_blank"} ) contains a new widget that uses a different way of loading than the classical events widget. This one works, so first step is to add the Highlights Application and set it as the start page for the community
 
 - Go to your Community overview page, click Community Actions - Add Apps
 
@@ -40,11 +40,11 @@ The new Highlights application ( [New Connections 8 feature](https://docs.st.col
 
 ## Some more information on the Highlights application
 
-As you can see, this new application has a lot to offer to make your communities even more powerful, it's loaded with new widgets, you have more flexibility on the layout of the community, and if you have a designer in your company, you can add custom stylesheets to change the colors, backgrounds etc... 
+As you can see, this new application has a lot to offer to make your communities even more powerful, it's loaded with new widgets, you have more flexibility on the layout of the community, and if you have a designer in your company, you can add custom stylesheets to change the colors, backgrounds etc...
 For more information see [here](https://docs.st.collab.cloud/admin/hc7/highlights/)
 
 In case of questions, do not hesitate to open a ticket in the support system and ask about this new feature.
 
 Extra sources
 
-[Here](https://help.hcltechsw.com/connections/v7/user/communities/c_com_highlights_widgets.html) and [here](https://help.hcltechsw.com/connections/v7/user/communities/c_com_config_highlights_widget.html)
+[Adding apps and widgets to the Highlights page](https://help.hcl-software.com/connections/latest/user/communities/c_com_highlights_widgets.html?h=adding+apps+widgets+highlights+page){target="_blank"}

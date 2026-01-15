@@ -1,8 +1,7 @@
 # Navbar
 
 The Appregistry already contains the *ThreeThirds V80* app. Which adds custom buttons to the left navigation bar.
-The full documentation can be found on [HCL Connections UI docs](https://github.com/HCL-TECH-SOFTWARE/connections-ui-docs/blob/master/main-areas/side-navigation/README.md)
-
+The full documentation can be found on [HCL Connections UI docs](https://github.com/HCL-TECH-SOFTWARE/connections-ui-docs/blob/master/main-areas/side-navigation/README.md){target="_blank"}
 Having a closer look at the "type":"com.hcl.connections.nav" entry:
 
 ```json

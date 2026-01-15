@@ -6,7 +6,7 @@ Requirements:
 - Microsoft Word
 - latest Windows HCL Connections Desktop Plugin
 
-Link to the [Official Documenation](https://help.hcltechsw.com/connections/v7/user/files/t_files_edit_file_local_refresh.html).
+Link to the [Official Documenation](https://help.hcl-software.com/connections/latest/user/files/t_files_edit_file_local_refresh.html?h=editing+connections+file+microsoft+office+a+in){target="_blank"}.
 
 Depending on your licence and your document access, you'll see these buttons on the document preview:
 

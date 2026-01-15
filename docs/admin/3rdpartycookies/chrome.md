@@ -2,9 +2,9 @@ If the Connections header bar will not load when launching Activities Plus/Huddo
 
 ![Last login](/assets/images/admin/3rdpartycookies/boards_noheader.png)
 
-To fix this problem you need to allow the use of third-party cookies for the following site: [https://boards.huddo.com](https://boards.huddo.com)
+To fix this problem you need to allow the use of third-party cookies for the following site: [https://boards.huddo.com](https://boards.huddo.com){target="_blank"}
 
-In Chrome settings, go to Privacy and Security, scroll to the bottom, click on "Add" and enter the complete URL: [https://boards.huddo.com](https://boards.huddo.com)
+In Chrome settings, go to Privacy and Security, scroll to the bottom, click on "Add" and enter the complete URL: [https://boards.huddo.com](https://boards.huddo.com){target="_blank"}
 
 ![Last login](/assets/images/admin/3rdpartycookies/chrome_settings.png)
 

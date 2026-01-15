@@ -8,7 +8,7 @@ The Desktop Connector for Windows can be found on our [downloads page](https://d
 
 ### How to install the software
 
-Either you follow the guide below or you go to the [HCL documentation website](https://help.hcltechsw.com/connections/v65/connectors/enduser/c_files_window_install_ovr.html)
+Either you follow the guide below or you go to the [HCL documentation website](https://help.hcl-software.com/connections/latest/connectors/enduser/c_files_window_install_ovr.html){target="_blank"}
 
 After downloading the software, double click the HCLConnectionsMSDesktop.exe file to upgrade or install the HCL Connections integration for Windows. Depending on your security settings, you will have to run the installation as administrator.
 

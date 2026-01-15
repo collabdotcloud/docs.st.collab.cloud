@@ -8,7 +8,7 @@ hide:
 
 ThreeThirds can cater for brand a new collaboration environment, or a migration from another system. If you are new to us, welcome and please contact your nearest reseller to get started.
 
-[Find a reseller](https://collab.cloud/reseller)
+[Find a reseller](https://collab.cloud/reseller){target="_blank"}
 
 >NOTE: Most current mail & collaboration solutions can be migrated to ThreeThirds *collab.cloud*.
 

@@ -20,7 +20,7 @@ On tab 3 you can also alter the layout of the landing page
 
 ![Highlight-Layout](/assets/images/admin/highlights/highlights-layout.png)
 
-A list of widgets can be found in the [official documentation](https://help.hcltechsw.com/connections/v7/connectors/icec/cec-widgets.html)
+A list of widgets can be found in the [official documentation](https://help.hcl-software.com/connections/latest/connectors/icec/cec-widgets.html){target="_blank"}
 
 ## Add to existing community
 

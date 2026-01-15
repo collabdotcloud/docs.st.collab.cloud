@@ -4,9 +4,9 @@
 
 Download the HCL Connections Mobile App from either Apple AppStore or Google Play Store
 
-For iPhone: [HCL Connections Mobile App](https://apps.apple.com/us/app/hcl-connections/id450533489)
+For iPhone: [HCL Connections Mobile App](https://apps.apple.com/us/app/hcl-connections/id450533489){target="_blank"}
 
-For Android: [HCL Connections Mobile App](https://play.google.com/store/apps/details?id=com.ibm.lotus.connections.mobile&hl=en)
+For Android: [HCL Connections Mobile App](https://play.google.com/store/apps/details?id=com.ibm.lotus.connections.mobile&hl=en){target="_blank"}
 
 ## Login to the HCL Connections Mobile App
 

@@ -22,7 +22,7 @@ There is a "ThreeThirds v80" app already there. This integrates our changes into
 
 The second app is the "Connections Tours Config". Which disables the initial Connection Tour.
 
-The official HCL documentation to the appregistry can be found [here](https://github.com/hclcnxdev/customizer/blob/master/docs/HCLConnectionsCustomizer.md) and examples are on the [HCL github](https://github.com/hclcnxdev) page.
+The official HCL documentation to the appregistry can be found [here](https://github.com/hclcnxdev/customizer/blob/master/docs/HCLConnectionsCustomizer.md){target="_blank"} and examples are on the [HCL github](https://github.com/hclcnxdev){target="_blank"} page.
 
 ## What is possible
 
@@ -41,7 +41,7 @@ Please create a ticket for that. So we're able to upload them to the right posit
 
 ## Common Issues with the editor
 
-- An app (json) can't be saved if the json is not valid => will be indicated in the UI. Use a lint tool like [Jsonlint.com](https://jsonlint.com) to verify the json syntax.
+- An app (json) can't be saved if the json is not valid => will be indicated in the UI. Use a lint tool like [Jsonlint.com](https://jsonlint.com){target="_blank"} to verify the json syntax.
 
 - An app can't be saved if some parts are not recognized. No indication here. It will just not save.
 

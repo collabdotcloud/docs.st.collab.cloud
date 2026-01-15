@@ -2,7 +2,7 @@
 
 With the new Chat integration it is possible to add your own chat systems into the ThreeThirds cloud.
 
-[HCL Documentation on Github](https://github.com/hclcnx/global-samples/tree/master/microsoft-teams/Chat%20Integration)
+[HCL Documentation on Github](https://github.com/hclcnx/global-samples/tree/master/microsoft-teams/Chat%20Integration){target="_blank"}
 
 The integration is also possible if your chat system does not use your business email address as the id. Please open a ticket in our support system if you need assistance.
 We currently support integrations with Microsoft Teams, Slack and Sametime

@@ -2,11 +2,11 @@
 
 Onboarding new employees is a challenge many organizations face. With Connections Touchpoint new users are welcomed to Connections and guided through a few simple steps to prepopulate their profiles and select from a few topics they might be interested in. In return, Touchpoint presents the new user with useful communities and colleagues to follow making the first day at work an engaging experience.
 
-Watch [this](https://www.youtube.com/watch?v=W3U4nkSGoDQ) video for more information
+Watch [this](https://www.youtube.com/watch?v=W3U4nkSGoDQ){target="_blank"} video for more information
 
 ## How to enable Touchpoint for your organisation
 
-To enable Touchpoint for your organisation, you will need to add a new Appregistry extension. For more information on Appregistry, see [here](https://docs.st.collab.cloud/admin/appreg/).
+To enable Touchpoint for your organisation, you will need to add a new Appregistry extension. For more information on Appregistry, see [here](https://docs.st.collab.cloud/admin/appreg/){target="_blank"}.
 
 ## Example
 

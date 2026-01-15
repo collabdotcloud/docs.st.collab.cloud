@@ -6,9 +6,9 @@ You can access and work with your Activities on your mobile device. Activities P
 
 Download the Kudos Boards Cloud App from either Apple AppStore or Google Play Store
 
-For iPhone: [Kudos Boards Cloud App](https://apps.apple.com/au/app/kudos-boards-for-cloud/id1348187330)
+For iPhone: [Kudos Boards Cloud App](https://apps.apple.com/au/app/kudos-boards-for-cloud/id1348187330){target="_blank"}
 
-For Android: [Kudos Boards Cloud App](https://play.google.com/store/apps/details?id=com.kudosboards.pwa&hl=en_AU)
+For Android: [Kudos Boards Cloud App](https://play.google.com/store/apps/details?id=com.kudosboards.pwa&hl=en_AU){target="_blank"}
 
 ## Login to the Kudos Boards Cloud App
 

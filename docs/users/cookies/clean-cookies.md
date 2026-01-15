@@ -4,7 +4,7 @@ If you have troubles with your login you should clear the stored cookies for **c
 
 ## Chrome, Chromium
 
-See [Chrome Support Page](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cdelete-cookies-from-a-site)
+See [Chrome Support Page](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cdelete-cookies-from-a-site){target="_blank"}
 
 Open Settings and goto **Privacy and security** -> Third Party Cookies
 ![Step 1](/assets/images/user/cookies/image1.png)
@@ -31,7 +31,7 @@ In the search box (1) enter **collab.cloud** then select the site (2) and hit **
 
 ## Edge
 
-[Remove Cookies for a site](https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d#bkmk_deletecookiesfromaspecificwebsite)
+[Remove Cookies for a site](https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d#bkmk_deletecookiesfromaspecificwebsite){target="_blank"}
 
 Open the Settings Page and goto **Cookies and site permissions** -> **Manage and delete cookies and site data**
 

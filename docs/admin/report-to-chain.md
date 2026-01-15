@@ -15,7 +15,7 @@ Larger view of the Report-to Chain widget:
 
 ![Report-to Chain section in user profile](/assets/images/screen-shots/report-to-chain/user-9-profile-small.png)
 
-From [HCL Support Page](https://opensource.hcltechsw.com/connections-doc/v8-cr6/user/profiles/c_pers_profiles.html?h=report+chain#section_zc5_mm5_sy):
+From [HCL Support Page](https://opensource.hcltechsw.com/connections-doc/v8-cr6/user/profiles/c_pers_profiles.html?h=report+chain#section_zc5_mm5_sy){target="_blank"}:
 
 Learn more about a person's position in the organizational hierarchy in the **Report-to-Chain** section. Choose one of the following options to open additional information about the people in the reporting structure:
 
@@ -45,7 +45,7 @@ There are three tabs on the Report-to Chain page:
 ### View & Export
 
 The *View and Export* tab shows the current Report-to Chain for your organisation.
-The *Export CSV* button download's the current information in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) format. The exported CSV can be used as a template to update the Report-to Chain.
+The *Export CSV* button download's the current information in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values){target="_blank"} format. The exported CSV can be used as a template to update the Report-to Chain.
 
 The tree displays which users are managed by which.
 For example:
@@ -77,7 +77,7 @@ The button *Save changes* to pushes the updates into the profiles.
 
 Maintaining your organisational hierarchy manually is cumbersome if there are a lot of changes or a lot of users.
 
-It's also possible to update the Report-to Chain with a [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)-file.
+It's also possible to update the Report-to Chain with a [CSV](https://en.wikipedia.org/wiki/Comma-separated_values){target="_blank"}-file.
 
 The current settings can be exported from the *View & Export* tab. This CSV file may be used as a template for the updates.
 

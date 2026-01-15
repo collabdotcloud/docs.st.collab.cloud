@@ -81,4 +81,4 @@ Save the settings and login to chat.
 
 ![Mobile Settings](/assets/images/screen-shots/sametime/mobile-settings.png){:width="50%"}
 
-Go to [HCL's Sametime Documentation site](https://help.hcltechsw.com/sametime/sametime_welcome.html) for more information.
+Go to [HCL's Sametime Documentation site](https://help.hcltechsw.com/sametime/sametime_welcome.html){target="_blank"} for more information.

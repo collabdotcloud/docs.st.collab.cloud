@@ -9,5 +9,5 @@ With the latest HCL Connections 8 update, please follow these instructions [Cust
 
 This gives you full control over the urls which can be accessed from Engagement Center RSS widget.
 This requires access to the appregistry, which is not end-user friendly at the moment.
-See [Detailed instructions](https://github.com/hclcnx/customizer/blob/master/docs/HCLConnectionsCustomizer.md#listing-17-simple-customizer-proxy-extension) for further informations.
+See [Detailed instructions](https://github.com/hclcnx/customizer/blob/master/docs/HCLConnectionsCustomizer.md#listing-17-simple-customizer-proxy-extension){target="_blank"} for further informations.
 
