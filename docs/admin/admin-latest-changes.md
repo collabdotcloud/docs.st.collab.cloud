@@ -4,7 +4,7 @@ The list of changes and fixes in the Administration Console (admin-app)
 
 #### 2026-01-07
 
-- M
+- Minor lookup bug corrected
 
 #### 2026-01-07
 
