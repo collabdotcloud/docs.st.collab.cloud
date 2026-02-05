@@ -133,6 +133,8 @@ nav:
                             - Using Sametime Groups:
                                       - Web Client: users/using-sametime-groups-stweb.md
                                       - Sametime Client: users/using-sametime-groups-stclient.md
+                  - Using Sametime Meeting:
+                            - Getting Started: users/using-sametime-meetings-gettingstarted.md
                   - Using Activities Plus:
                             - Getting Started: users/aplus-gettingstarted.md
                             - Accessing Activities Plus: users/aplus-for-users.md
