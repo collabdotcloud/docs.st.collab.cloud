@@ -14,6 +14,7 @@ The ThreeThirds partnership was the first Cloud Provider chosen by HCL, and have
 For more information about our Cloud Offerings visit [collab.cloud](https://collab.cloud){target="_blank"}
 
 ## Important if you are using [Chrome and Connections](help/chrome-2026.md) after November 17, 2026
+
 ---
 
 ## What is Connections?
